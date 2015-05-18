@@ -38,10 +38,10 @@ my $running=True;
 my @stack=(undef);
 
 my @program=(	PSH, 5,
-				PSH, 6,
-				ADD,
-				POP,
-				HLT  );
+		PSH, 6,
+		ADD,
+		POP,
+		HLT  );
 
 sub fetch()
 {
