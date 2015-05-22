@@ -21,8 +21,11 @@
 #  MA 02110-1301, USA.
 #  
 
-# keeping at least X newer linux images
+# keeping at least
 TOKEEP=3
+
+# remove counter
+TOREMO=0
 
 # get LSB release information
 source /etc/lsb-release
@@ -42,11 +45,16 @@ if [ ${DISTRIB_ID} = "Ubuntu" ]; then
             echo "  ${IMAGE}"
         else
             LIST=${LIST}' '${IMAGE}
+            TOREMO=$((TOREMO=+1))
         fi
-        COUNT=$((COUNT=COUNT+1))
+        COUNT=$((COUNT+1))
     done
-    # for safety I don't run 'apt-get', please copy & paste
-    echo -e "\nTry this:\napt-get remove --purge${LIST}"
+    if [ ${TOREMO} -gt 0 ]; then
+        # for safety I don't run 'apt-get', please copy & paste
+        echo -e "\nTry this:\napt-get remove --purge${LIST}"
+    else
+        echo -e "\nNOthing to do!"
+    fi
 else
     echo "Ubuntu only!"
     exit 1
