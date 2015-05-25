@@ -53,7 +53,7 @@ if [ ${DISTRIB_ID} = "Ubuntu" ]; then
         # for safety I don't run 'apt-get', please copy & paste
         echo -e "\nTry this:\napt-get remove --purge${LIST}"
     else
-        echo -e "\nNOthing to do!"
+        echo -e "\nNothing to do!"
     fi
 else
     echo "Ubuntu only!"
