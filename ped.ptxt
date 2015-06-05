@@ -1,0 +1,10 @@
+[35mHISTÓRICO DE EXERCÍCIOS[39m[0m
+Exercícios       : [1m[1m%_WORKOUTS_%[0m[0m
+Maior distância  : [1m%_FARTHEST_% km[0m
+Distância total  : [1m%_RUNDISTANCE_% km[0m
+Tempo total      : [1m%_TOTALHOU_%h %_TOTALMIN_%m %_TOTALSEC_%s[0m
+Calorias         : [1m%_CALORIES_%[0m[0m
+Número de passos : [1m%_TOTALSTEPS_%[0m[0m
+  Caminhando     : %_WALKING_%
+  Correndo       : %_RUNNING_%
+  Passadas       : [33m~%_MYSTEPS_% m[39m
