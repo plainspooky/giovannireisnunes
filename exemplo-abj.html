@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang='pt_BR' ng-app="exemplo">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel='stylesheet' href="http://fonts.googleapis.com/css?family=Raleway"/>
+	<link rel='stylesheet' href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<link rel='stylesheet' href="https://raw.githubusercontent.com/plainspooky/giovannireisnunes/master/exemplo-abj.css"/>
+	<!--
+		TituloController
+	-->
+	<title ng-controller="TituloController as titulo">{{ titulo.texto }}</title>
+</head>
+<body>
+	<!--
+		onde você coloca o 'ng-controller' define o domínio dele sobre o HTML,
+		ou seja, ele atuará deste ponto para baixo no DOM, nunca para acima.
+	-->
+	<div class="container" ng-controller="MenuController as menu">
+		<!--
+			sempre utilize aspas(") e não apóstrofos(') nas chaves ng-*!
+		-->
+		<div class="masthead">
+			<h3 class="text-muted">{{ menu.texto }}</h3>
+			<nav>
+				<ul class="nav nav-tabs">
+					<li ng-class="{ active: menu.verificaPagina(0) }">
+						<a href ng-click="menu.escolhePagina(0)">Início</a>
+					</li>
+					<li ng-class="{ active: menu.verificaPagina(1) }">
+						<a href ng-click="menu.escolhePagina(1)">Sobre</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<!-- o conteúdo começa por aqui -->
+		<div class="jumbotron" ng-controller="JumboController as jumbo">
+			<h1>{{ jumbo.conteudo.texto }}</h1>
+			<p class="lead"><strong>{{ jumbo.conteudo.descr }}</strong></p>
+			<p><a class="btn btn-lg btn-primary"  target='_BLANK' href="{{ jumbo.conteudo.link }}" role="button"><span class="glyphicon glyphicon-download-alt"></span> {{ jumbo.conteudo.botao }}</a></p>
+		</div>
+		<!--
+			o conteúdo fica aqui
+		-->
+		<!-- as três opções -->
+		<div class="row" ng-controller="ResumoController as resumo" ng-show="menu.verificaPagina(0)">
+			<!-- o modelo é baseado no estilo de três colunas, por mais que o código seja flexível não fiz -->
+			<div class="col-lg-4" ng-repeat="conteudo in resumo.conteudos">
+				<img class="img-responsive" ng-src="{{ conteudo.tela }}"/>
+				<h2>{{ conteudo.titulo }}</h2>
+				<p>{{ conteudo.texto }}</p>
+				<p><a class="btn btn-primary" target='_BLANK' href="{{ conteudo.link }}" role="button">Mais &raquo;</a></p>
+			</div>
+		</div>
+		<!-- sobre... -->
+		<div class="row" ng-show="menu.verificaPagina(1)">
+			<div class="col-lg-2"></div>
+			<div class="col-lg-8" ng-controller="SobreController as sobre">
+				<h1>{{ sobre.conteudo.titulo }}</h1>
+				<p>{{ sobre.conteudo.texto }}</p>
+				<pre>{{ sobre.license }}</pre>
+				</p>
+			</div>
+			<div class="col-lg-2"></div>
+		</div>
+		<footer class='footer'>
+			<p>&copy;2015, Giovanni Nunes</p>
+			<p>Para maiores informações ou contato, acesse meu blog em <a href='http://giovannireisnunes.wordpress.com' target='_BLANK'>giovannireisnunes.wordpress.com</a></p>
+		</footer>
+	</div>
+	<!-- o JavaScript fica aqui -->
+	<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/plainspooky/giovannireisnunes/master/exemplo-abj.js"></script>
+</body>
+</html>
