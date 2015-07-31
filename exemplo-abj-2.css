@@ -1,0 +1,29 @@
+body {
+	font-family:'Titillium Web',Sans;
+	}
+
+.jumbotron {
+	background-image:url('https://farm8.staticflickr.com/7341/11696773813_bccec7b286_o_d.jpg');
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top:0.5em;
+	text-align:center;
+}
+
+.jumbotron h1 {
+	color: #ffffff;
+	font-weight: bold;
+	text-shadow: 0 0 2px #000000; 
+}
+
+.jumbotron p {
+	color: #ffffff;
+}	
+
+.footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 40px;
+  border-top: 1px solid #eee;
+}
