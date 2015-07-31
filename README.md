@@ -27,7 +27,12 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
 * [Exemplo com AngularJS, Bootstrap e jQuery](https://giovannireisnunes.wordpress.com/2015/07/23/exemplo-com-angularjs-bootstrap-e-jquery/)
   * `exemplo-abj.css` -- A customização que fiz na folha de estilos padrão do Bootstrap.
   * `exemplo-abj.html` -- A página HTML propriamente dita.
-  * `exemplo-abj.js` -- O código em em JavaScript com as chamadas às bibliotecas do AngularJS.
+  * `exemplo-abj.js` -- O código em JavaScript com as chamadas às bibliotecas do AngularJS.
+* [Um outro exemplo de AngularJS](https://giovannireisnunes.wordpress.com/2015/07/31/um-outro-exemplo-de-angularjs/)
+  * `exemplo-abj-2.css` -- A customização que fiz na folha de estilos padrão do Bootstrap.
+  * `exemplo-abj-2.html`-- A página HTML propriamente dita.
+  * `exemplo-abj-2.js` -- O código em JavaScript com as chamadas às bibliotecas do AngularJS.
+  * `exemplo-abj-2.json` -- O arquivo com a "base de dados" usada no programa.
 
 ## Para usar estes arquivos
 
