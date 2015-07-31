@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<!--
+	Exemplo AngularJS 2 1.0 (HTML)
+ 	
+	Outro exemplo de página web só com AngularJS
+ 	
+	Copyright 2015, Giovanni Nunes <giovanni.nunes-you.know-gmail.com>
+ 	
+	This program is free software; you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation; either version 2 of the License, or
+	(at your option) any later version.
+ 	
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+	
+	You should have received a copy of the GNU General Public License
+	along with this program; if not, write to the Free Software
+	Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+	MA 02110-1301, USA.
+-->
+<head>
+	<meta charset="utf-8">
+	<title>Outro exemplo simples com AngularJS</title>
+	<link rel='stylesheet' type='text/css' href="http://fonts.googleapis.com/css?family=Titillium Web">
+	<link rel='stylesheet' type='text/css' href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">	
+	<link rel='stylesheet' type='text/css' href="exemplo-abj-2.css">
+</head>
+<body ng-app="exemplo2">
+	<div class='container'>
+		<h3>Outro exemplo simples com AngularJS</h3>
+		<div class='jumbotron'>
+			<h1>Sem as mãos!</h1>
+			<p><strong>Mais um exemplo de AngularJS</strong></p>
+		</div>
+		<!--
+			como mexerei em mais elementos que só a tabela, criei um DIV para acondicioná-los
+		-->
+		<div class='fluid-container' ng-controller="BoletimCtrl as boletim">
+			<h2>Notas da turma</h2>
+			<table class='table table-striped'>
+				<thead>
+					<tr>
+						<th>Aluno</th>
+						<!--
+							Não sei se as melhores práticas me proíbem de fazê-lo mas... fiz :)
+						-->
+						<th ng-repeat='bimestre in boletim.bimestres'>{{ bimestre }}º <small>bimestre</small></th>
+						<th>Média</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr ng-repeat="aluno in boletim.turma">
+						<!--
+							o nome do aluno vai aqui
+							o filtro "uppercase" colocará o nome em caixa alta
+						-->
+						<td>{{ aluno.nome | uppercase }}</td>
+						<!--
+							as maravilhosas notas aqui.
+							o filtro "number" ajustará o número para duas casas decimais
+						-->
+						<td ng-repeat="nota in aluno.notas">{{ nota | number:2 }}</td>					
+						<!--
+							daí pego todas elas e jogo para uma função que vai calcular a média
+						-->
+						<td>{{ boletim.mediaAritmetica( aluno.notas ) | number:2 }}</td>
+					</tr>
+				</tbody>
+			</table>
+			<!--
+				apenas dando alguma informação sobre quando a informção foi atualizada
+				o filtro "date" formatará a data como 'MMM d, y h:mm:ss a'
+			-->
+			<small>Arquivo gerado automaticamente as {{ boletim.agora | date:'medium' }} </small>
+		</div>
+		<footer class='footer'>
+			<p>&copy;2015, Giovanni Nunes</p>
+			<p>Para maiores informações ou contato, acesse meu blog em <a href='http://giovannireisnunes.wordpress.com' target='_BLANK'>giovannireisnunes.wordpress.com</a></p>
+		</footer>
+	</div>
+	<!--
+		e o Javascript fica aqui no final
+	-->
+	<script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script type='text/javascript' src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
+	<script type='text/javascript' src="exemplo-abj-2.js"></script>
+	</div>
+</body>
+</html>
