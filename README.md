@@ -33,6 +33,11 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
   * `exemplo-abj-2.html`-- A página HTML propriamente dita.
   * `exemplo-abj-2.js` -- O código em JavaScript com as chamadas às bibliotecas do AngularJS.
   * `exemplo-abj-2.json` -- O arquivo com a "base de dados" usada no programa.
+* [Orientação a objetos em PHP, o básico](https://giovannireisnunes.wordpress.com/2015/08/07/orientacao-a-objetos-em-php-o-basico/)
+  * `Nome.php` -- O arquivo PHP contendo a classe Nome.
+  * `SuperNome.php` -- O arquivo PHP contendo a classe SuperNome.
+  * `nome.php` -- O programa de exemplo de orietação a objetos.
+  * `supernome.php`  -- O programa de exemplo de orietação a objetos com herança.
 
 ## Para usar estes arquivos
 
