@@ -38,6 +38,10 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
   * `SuperNome.php` -- O arquivo PHP contendo a classe SuperNome.
   * `nome.php` -- O programa de exemplo de orietação a objetos.
   * `supernome.php`  -- O programa de exemplo de orietação a objetos com herança.
+* [Orientação a objetos em Ruby, o básico](https://giovannireisnunes.wordpress.com/2016/10/07/orientacao-a-objetos-em-ruby-o-basico)
+  * `Nome.rb` -- O arquivo em Ruby contendo a classe Nome.
+  * `Supernome.rb` -- O arquivo em Ruby contendo a classe Supernome.
+  * `nome.rb` -- O programa de exemplo de orientação a objetos.
 
 ## Para usar estes arquivos
 
