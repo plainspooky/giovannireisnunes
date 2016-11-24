@@ -43,6 +43,10 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
   * `Supernome.rb` -- O arquivo em Ruby contendo a classe Supernome.
   * `nome.rb` -- O programa de exemplo de orientação a objetos.
 
+* [Orientação a objetos em Python, o básico](https://giovannireisnunes.wordpress.com/2016/11/25/orientacao-a-objetos-em-python-o-basico)
+  * `nomes.py` -- O arquivo em Python contendo as classes Nome e Supernome.
+  * `nomes.py` -- O programa e exemplo de orientação a objetos.
+
 ## Para usar estes arquivos
 
 Todos os programas estão licenciados na GPL, podem ser utilizados livremente (desde que não violem os termos da licença, é claro) e  podem ser baixados diretamente pela interface web do GitHub ou então com o próprio `git`:
