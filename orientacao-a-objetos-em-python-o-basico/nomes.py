@@ -14,10 +14,9 @@ class Nome(object):
     def escreve_nome_completo(self):
         ''' método que escreve o nome completo '''
         return self.nome+" "+self.sobrenome
-   
+
 class Supernome(Nome):
 
     def escreve_nome_completo(self):
         ''' método que escreve o nome completo de outra forma '''
         return self.sobrenome.upper()+", "+self.nome
-
