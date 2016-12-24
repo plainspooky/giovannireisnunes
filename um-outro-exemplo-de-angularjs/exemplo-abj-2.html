@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html>
 <!--
-	Exemplo AngularJS 2 1.0 (HTML)
- 	
+	Exemplo AngularJS 2 1.1 (HTML)
+
 	Outro exemplo de página web só com AngularJS
- 	
+
 	Copyright 2015, Giovanni Nunes <giovanni.nunes-you.know-gmail.com>
- 	
+
 	This program is free software; you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
 	the Free Software Foundation; either version 2 of the License, or
 	(at your option) any later version.
- 	
+
 	This program is distributed in the hope that it will be useful,
 	but WITHOUT ANY WARRANTY; without even the implied warranty of
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 	GNU General Public License for more details.
-	
+
 	You should have received a copy of the GNU General Public License
 	along with this program; if not, write to the Free Software
 	Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
@@ -26,7 +26,7 @@
 	<meta charset="utf-8">
 	<title>Outro exemplo simples com AngularJS</title>
 	<link rel='stylesheet' type='text/css' href="http://fonts.googleapis.com/css?family=Titillium Web">
-	<link rel='stylesheet' type='text/css' href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">	
+	<link rel='stylesheet' type='text/css' href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 	<link rel='stylesheet' type='text/css' href="exemplo-abj-2.css">
 </head>
 <body ng-app="exemplo2">
@@ -63,12 +63,12 @@
 							as maravilhosas notas aqui.
 							o filtro "number" ajustará o número para duas casas decimais
 						-->
-						<td ng-repeat="nota in aluno.notas">{{ nota | number:2 }}</td>					
+						<td ng-repeat="nota in aluno.notas">{{ nota | number:2 }}</td>
 						<!--
 							daí pego todas elas e jogo para uma função que vai calcular a média
 						-->
 						<td>{{ boletim.mediaAritmetica( aluno.notas ) | number:2 }}</td>
-					</tr>
+						</tr>
 				</tbody>
 			</table>
 			<!--
@@ -85,9 +85,11 @@
 	<!--
 		e o Javascript fica aqui no final
 	-->
-	<script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-	<script type='text/javascript' src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-	<script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	<!-- <script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> -->
+	<!-- <script type='text/javascript' src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script> -->
+	<script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
 	<script type='text/javascript' src="exemplo-abj-2.js"></script>
 	</div>
 </body>
