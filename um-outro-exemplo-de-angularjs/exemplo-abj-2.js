@@ -36,11 +36,15 @@
 		 *	carrega a base de dados via HTTP
 		 */
 		this.file=$http.get('exemplo-abj-2.json').then(function(result) {
-			exemplo2.turma=result.data;
+			if ( result.status==200){
+				exemplo2.turma=result.data;
+			} else {
+				alert("Erro ao carregar o arquivo JSON!");
+			}
 		});
 
 		 /*
-		  *	calculo a média aritmética de um array de números
+		  *	calculo da média aritmética de um array de números
 		  */
 		this.mediaAritmetica=function(lista) {
 			var itens=lista.length;
