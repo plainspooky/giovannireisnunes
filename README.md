@@ -1,6 +1,8 @@
 # Files from my blog
 
-This is collection of programs and files related from my [blog](https://giovannireisnunes.wordpress.com) -- It is written in portuguese  but you're invited to know it. Even using Google Translator :-)
+These are a collection of programs and files related from my [blog](https://giovannireisnunes.wordpress.com).
+It is written in portuguese but you're invited to know it.
+Even using some kind of automatic language translator :-)
 
 # Arquivos do meu blog
 
@@ -41,11 +43,12 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
 * [Orientação a objetos em Ruby, o básico](https://giovannireisnunes.wordpress.com/2016/10/07/orientacao-a-objetos-em-ruby-o-basico)
   * `Nome.rb` -- O arquivo em Ruby contendo a classe Nome.
   * `Supernome.rb` -- O arquivo em Ruby contendo a classe Supernome.
-  * `nome.rb` -- O programa de exemplo de orientação a objetos.
-
-* [Orientação a objetos em Python, o básico](https://giovannireisnunes.wordpress.com/2016/11/25/orientacao-a-objetos-em-python-o-basico)
+* [Orientação a objetos em Python, o básico](https://giovannireisnunes.wordpress.com/2016/11/25/orientacao-a-objetos-em-python-o-basico/)
+  * `nome.py` -- O programa e exemplo de orientação a objetos.
   * `nomes.py` -- O arquivo em Python contendo as classes Nome e Supernome.
-  * `nomes.py` -- O programa e exemplo de orientação a objetos.
+* [Orientação a objetos em JavaScript, o básico](https://giovannireisnunes.wordpress.com/2016/12/23/orientacao-a-objetos-em-javascript-o-basico/)
+  * `nome.js` -- O arquivo em Javascript contendo a classe Nome.
+  * `nome_ecma-262.js` -- O arquivo em Javascript contendo a classe Nome (versão compatível com a ECMA-262).
 
 ## Para usar estes arquivos
 
