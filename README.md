@@ -8,47 +8,22 @@ Even using some kind of automatic language translator :-)
 
 Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](https://giovannireisnunes.wordpress.com).
 
-## Conteúdo
+## Publicações relacionadas
 
 * [Quantos dias tem o mês?](https://giovannireisnunes.wordpress.com/2015/05/01/quantos-dias-tem-um-mes/)
-  * `numbeofdays.sh` -- Retorna o número de dias no mês corrente ou em um específico.
 * [Faxina no /boot](https://giovannireisnunes.wordpress.com/2015/05/25/faxina-no-boot/)
-  * `oldkernelcleaner.sh` -- Lista as imagens de kernel que podem ser removidas no Debian e/ou Ubuntu (acompanhe as publicações subsequentes).
 * [Máquina virtual em Perl](https://giovannireisnunes.wordpress.com/2015/06/01/maquina-virtual-em-perl/)
-  * `mymac.pl` -- Minha versão, em Perl, da implementação da máquina virtual em C do [Felix Angel](http://blog.felixangell.com/virtual-machine-in-c/).
 * [XML em Perl - parte 3](https://giovannireisnunes.wordpress.com/2015/06/05/xml-em-perl-parte-3/)
-  * `ped.phtml` -- O *temmplate* da saída em HTML.
-  * `ped.pl` -- O programa que consolida os arquivos do XML do pedômetro do iPod.
-  * `ped.ptxt` -- O *template* da saída em console (com códigos VT100).
 * [Gerador de arquivos IPS](https://giovannireisnunes.wordpress.com/2015/06/14/gerador-de-arquivos-ips/)
-  * `IPSmaker.pm` -- Módulo do Perl com as rotinas do gerador de *patches* IPS.
-  * `ipsmaker.pl` -- O gerador de *patches* IPS propriamente dito.
 * [Orientação a objetos em Perl, o básico](https://giovannireisnunes.wordpress.com/2015/06/26/um-basico-de-orientacao-a-objetos-em-perl/)
-  * `Nome.pm` -- Módulo do Perl que contém a classe utilizada no exemplo.
-  * `nome.pm` -- O programa de exemplo de orientação a objetos.
 * [Exemplo com AngularJS, Bootstrap e jQuery](https://giovannireisnunes.wordpress.com/2015/07/23/exemplo-com-angularjs-bootstrap-e-jquery/)
-  * `exemplo-abj.css` -- A customização que fiz na folha de estilos padrão do Bootstrap.
-  * `exemplo-abj.html` -- A página HTML propriamente dita.
-  * `exemplo-abj.js` -- O código em JavaScript com as chamadas às bibliotecas do AngularJS.
 * [Um outro exemplo de AngularJS](https://giovannireisnunes.wordpress.com/2015/07/31/um-outro-exemplo-de-angularjs/)
-  * `exemplo-abj-2.css` -- A customização que fiz na folha de estilos padrão do Bootstrap.
-  * `exemplo-abj-2.html`-- A página HTML propriamente dita.
-  * `exemplo-abj-2.js` -- O código em JavaScript com as chamadas às bibliotecas do AngularJS.
-  * `exemplo-abj-2.json` -- O arquivo com a "base de dados" usada no programa.
 * [Orientação a objetos em PHP, o básico](https://giovannireisnunes.wordpress.com/2015/08/07/orientacao-a-objetos-em-php-o-basico/)
-  * `Nome.php` -- O arquivo PHP contendo a classe Nome.
-  * `SuperNome.php` -- O arquivo PHP contendo a classe SuperNome.
-  * `nome.php` -- O programa de exemplo de orietação a objetos.
-  * `supernome.php`  -- O programa de exemplo de orietação a objetos com herança.
 * [Orientação a objetos em Ruby, o básico](https://giovannireisnunes.wordpress.com/2016/10/07/orientacao-a-objetos-em-ruby-o-basico)
-  * `Nome.rb` -- O arquivo em Ruby contendo a classe Nome.
-  * `Supernome.rb` -- O arquivo em Ruby contendo a classe Supernome.
 * [Orientação a objetos em Python, o básico](https://giovannireisnunes.wordpress.com/2016/11/25/orientacao-a-objetos-em-python-o-basico/)
-  * `nome.py` -- O programa e exemplo de orientação a objetos.
-  * `nomes.py` -- O arquivo em Python contendo as classes Nome e Supernome.
 * [Orientação a objetos em JavaScript, o básico](https://giovannireisnunes.wordpress.com/2016/12/23/orientacao-a-objetos-em-javascript-o-basico/)
-  * `nome.js` -- O arquivo em Javascript contendo a classe Nome.
-  * `nome_ecma-262.js` -- O arquivo em Javascript contendo a classe Nome (versão compatível com a ECMA-262).
+* [Módulos em Python](https://giovannireisnunes.wordpress.com/2017/08/18/modulos-em-python)
+
 
 ## Para usar estes arquivos
 
