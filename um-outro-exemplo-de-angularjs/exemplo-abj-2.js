@@ -1,4 +1,4 @@
-  /*
+/*
  *	Exemplo AngularJS 2 1.0
  *
  *	Outro exemplo de página web só com AngularJS
