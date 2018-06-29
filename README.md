@@ -13,7 +13,7 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
 * [Quantos dias tem o mês?](https://giovannireisnunes.wordpress.com/2015/05/01/quantos-dias-tem-um-mes/)
 * [Faxina no /boot](https://giovannireisnunes.wordpress.com/2015/05/25/faxina-no-boot/)
 * [Máquina virtual em Perl](https://giovannireisnunes.wordpress.com/2015/06/01/maquina-virtual-em-perl/)
-* [XML em Perl - parte 3](https://giovannireisnunes.wordpress.com/2015/06/05/xml-em-perl-parte-3/)
+* XML em Perl - [parte 3](https://giovannireisnunes.wordpress.com/2015/06/05/xml-em-perl-parte-3/)
 * [Gerador de arquivos IPS](https://giovannireisnunes.wordpress.com/2015/06/14/gerador-de-arquivos-ips/)
 * [Orientação a objetos em Perl, o básico](https://giovannireisnunes.wordpress.com/2015/06/26/um-basico-de-orientacao-a-objetos-em-perl/)
 * [Exemplo com AngularJS, Bootstrap e jQuery](https://giovannireisnunes.wordpress.com/2015/07/23/exemplo-com-angularjs-bootstrap-e-jquery/)
@@ -23,7 +23,7 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
 * [Orientação a objetos em Python, o básico](https://giovannireisnunes.wordpress.com/2016/11/25/orientacao-a-objetos-em-python-o-basico/)
 * [Orientação a objetos em JavaScript, o básico](https://giovannireisnunes.wordpress.com/2016/12/23/orientacao-a-objetos-em-javascript-o-basico/)
 * [Módulos em Python](https://giovannireisnunes.wordpress.com/2017/08/18/modulos-em-python)
-* [Exceções em Python - parte 1](https://giovannireisnunes.wordpress.com/2018/06/22/excecoes-em-python-parte-1)
+* Exceções em Python - [parte 1](https://giovannireisnunes.wordpress.com/2018/06/22/excecoes-em-python-parte-1) e [parte 2](https://giovannireisnunes.wordpress.com/2018/06/29/excecoes-em-python-parte-2)
 
 
 ## Para usar estes arquivos
