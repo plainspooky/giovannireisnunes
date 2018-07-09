@@ -5,7 +5,7 @@ from random import randint
 from sys import argv
 
 nome_do_arquivo = argv[1]
-dados = "".join([ chr(randint(32,126)) for i in range(65536) ])
+dados = "".join([chr(randint(32, 126)) for i in range(65536)])
 
 try:
     status = 0
@@ -18,6 +18,7 @@ except IOError:
 else:
     print('Arquivo salvo com sucesso!')
 finally:
-    if status > 0: exit(status)
+    if status > 0:
+        exit(status)
 
 print("Faz outras coisas e depois termina.")

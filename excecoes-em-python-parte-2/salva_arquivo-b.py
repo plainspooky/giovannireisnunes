@@ -6,7 +6,7 @@ from sys import argv
 
 nome_do_arquivo = argv[1]
 
-dados = "".join([ chr(randint(32,126)) for i in range(65536) ])
+dados = "".join([chr(randint(32, 126)) for i in range(65536)])
 
 try:
     status = 0
@@ -18,11 +18,12 @@ except IOError as err:
         status = 1
     else:
         print('Impossível escrever os dados em `{}`'
-        .format(nome_do_arquivo))
+              .format(nome_do_arquivo))
         status = 2
 else:
     print('Arquivo salvo com sucesso!')
 finally:
-    if status > 0: exit(status)
+    if status > 0:
+        exit(status)
 
 print("Faz outras coisas e depois termina.")

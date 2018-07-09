@@ -15,7 +15,7 @@ def imprime():
         "8": "8D7D6F", "9": "7D8085", "0": "80817B", "a": "828775",
         "b": "9E8C80", "c": "8C918C", "d": "978E8D", "e": "9FA09E",
         "f": "B09F99", "g": "AEA38B", "h": "ADB3B1", "i": "CACECE",
-        }
+    }
 
     # tabela de atributos produzida de um arquiovo XPM.
     attributes = [
@@ -41,7 +41,7 @@ def imprime():
         "4444[7dddd787dbfffbbdbdb..<f.-#..b8828b88bbb2<  -11{)11. ;;{)<$$$==@@$;))););)'~",
         "44}484411444188f888b88bf..b8<b{..2128bbb828f82</$^^;^^j+;^;^((]   ....+$;$()$()(",
         "44}}44444444248844bb72b1..84221.+22422421/<1<<1/21//^^^^^@] .. &$;$;;$$$);;);;((",
-        ]
+    ]
 
     # tabela de padrões produzida via AALib.
     pattern = [
@@ -67,15 +67,17 @@ def imprime():
         "jjjjj2au2222j2azzzau2uar-\"q2=5\">4j2auuajjj\\2@#+q_:$@@$;gQ2::j;\"o9090=u:e@AsAKEEQ",
         "jrjjjjjjjjj2C2222j22222pNquu.2}2{uj2j222j2j2jjQMA2:c2r::_a1zQ:y#zaj::7\"uS&::2:Qg",
         "Q@j@jjjQjjj2jj\\jj2222j2$2-jjj@lg{jQj@j@p@@j$QQQQQQ::QgzZ2jy=!.j_._\\\\j2j\\:2zg:K:Q",
-        ]
+    ]
 
     knight = ""
 
-    for lin in range(0,len(pattern)):
-        for col in range(0,len(pattern[lin])):
+    for lin in range(0, len(pattern)):
+        for col in range(0, len(pattern[lin])):
             atr = colors[attributes[lin][col]]
-            (red, green, blue) = ( int(atr[i:i+2], base=16) for i in range(0,6,2) )
-            knight += "\x1b[38;2;{};{};{}m{}\x1b[0m".format(red, green, blue, pattern[lin][col])
+            (red, green, blue) = (int(atr[i:i+2], base=16)
+                                  for i in range(0, 6, 2))
+            knight += "\x1b[38;2;{};{};{}m{}\x1b[0m".format(
+                red, green, blue, pattern[lin][col])
         knight += "\n"
 
     return knight

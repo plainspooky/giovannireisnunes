@@ -8,10 +8,9 @@ print("Este programa contará até 100.")
 
 contador = 0
 while contador < 100:
-    print (".", end="")
-    stdout.flush() # força a atualização da tela.
+    print(".", end="")
+    stdout.flush()  # força a atualização da tela.
     contador += 1
-    sleep(.03125) # espera 1/32 segundos.
+    sleep(.03125)  # espera 1/32 segundos.
 
-print (" FIM!")
-    
+print(" FIM!")
