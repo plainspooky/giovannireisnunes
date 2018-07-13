@@ -1,0 +1,5527 @@
+1:Norte
+2:Acre
+3:Acrelândia
+3:Assis Brasil
+3:Brasileia
+3:Bujari
+3:Capixaba
+3:Cruzeiro do Sul
+3:Epitaciolândia
+3:Feijó
+3:Jordão
+3:Manoel Urbano
+3:Marechal Thaumaturgo
+3:Mâncio Lima
+3:Plácido de Castro
+3:Porto Acre
+3:Porto Walter
+3:Rio Branco
+3:Rodrigues Alves
+3:Santa Rosa do Purus
+3:Sena Madureira
+3:Senador Guiomard
+3:Tarauacá
+2:Amazonas
+3:Alvarães
+3:Amaturá
+3:Anamã
+3:Anori
+3:Apuí
+3:Atalaia do Norte
+3:Autazes
+3:Barcelos
+3:Barreirinha
+3:Benjamin Constant
+3:Beruri
+3:Boa Vista do Ramos
+3:Boca do Acre
+3:Borba
+3:Canutama
+3:Carauari
+3:Careiro
+3:Careiro da Várzea
+3:Coari
+3:Codajás
+3:Eirunepé
+3:Envira
+3:Fonte Boa
+3:Guajará
+3:Humaitá
+3:Ipixuna
+3:Iranduba
+3:Itacoatiara
+3:Itamarati
+3:Itapiranga
+3:Japurá
+3:Juruá
+3:Jutaí
+3:Manacapuru
+3:Manaquiri
+3:Manaus
+3:Manicoré
+3:Maraã
+3:Maués
+3:Nhamundá
+3:Nova Olinda do Norte
+3:Novo Airão
+3:Novo Aripuanã
+3:Parintins
+3:Pauini
+3:Presidente Figueiredo
+3:Rio Preto da Eva
+3:Santa Isabel do Rio Negro
+3:Santo Antônio do Içá
+3:Silves
+3:São Gabriel da Cachoeira
+3:São Paulo de Olivença
+3:São Sebastião do Uatumã
+3:Tabatinga
+3:Tapauá
+3:Tefé
+3:Tonantins
+3:Urucará
+3:Urucurituba
+2:Amapá
+3:Amapá
+3:Calçoene
+3:Cutias
+3:Ferreira Gomes
+3:Itaubal
+3:Laranjal do Jari
+3:Macapá
+3:Mazagão
+3:Oiapoque
+3:Pedra Branca do Amapari
+3:Porto Grande
+3:Pracuuba
+3:Santana
+3:Serra do Navio
+3:Tartarugalzinho
+3:Vitória do Jari
+2:Pará
+3:Abaetetuba
+3:Abel Figueiredo
+3:Acará
+3:Afuá
+3:Alenquer
+3:Almeirim
+3:Altamira
+3:Anajás
+3:Ananindeua
+3:Anapu
+3:Augusto Corrêa
+3:Aurora do Pará
+3:Aveiro
+3:Bagre
+3:Baião
+3:Bannach
+3:Barcarena
+3:Belterra
+3:Belém
+3:Benevides
+3:Bom Jesus do Tocantins
+3:Bonito
+3:Bragança
+3:Brasil Novo
+3:Brejo Grande do Araguaia
+3:Breu Branco
+3:Breves
+3:Bujaru
+3:Cachoeira do Arari
+3:Cachoeira do Piriá
+3:Cametá
+3:Canaã dos Carajás
+3:Capanema
+3:Capitão Poço
+3:Castanhal
+3:Chaves
+3:Colares
+3:Conceição do Araguaia
+3:Concórdia do Pará
+3:Cumaru do Norte
+3:Curionópolis
+3:Curralinho
+3:Curuá
+3:Curuçá
+3:Dom Eliseu
+3:Eldorado dos Carajás
+3:Faro
+3:Floresta do Araguaia
+3:Garrafão do Norte
+3:Goianésia do Pará
+3:Gurupá
+3:Igarapé-Açu
+3:Igarapé-Mirim
+3:Inhangapi
+3:Ipixuna do Pará
+3:Irituia
+3:Itaituba
+3:Itupiranga
+3:Jacareacanga
+3:Jacundá
+3:Juruti
+3:Limoeiro do Ajuru
+3:Magalhães Barata
+3:Marabá
+3:Maracanã
+3:Marapanim
+3:Marituba
+3:Medicilândia
+3:Melgaço
+3:Mocajuba
+3:Moju
+3:Mojuí dos Campos
+3:Monte Alegre
+3:Muaná
+3:Mãe do Rio
+3:Nova Esperança do Piriá
+3:Nova Ipixuna
+3:Nova Timboteua
+3:Novo Progresso
+3:Novo Repartimento
+3:Oeiras do Pará
+3:Oriximiná
+3:Ourilândia do Norte
+3:Pacajá
+3:Palestina do Pará
+3:Paragominas
+3:Parauapebas
+3:Pau-d'Arco
+3:Peixe-Boi
+3:Piçarra
+3:Placas
+3:Ponta de Pedras
+3:Portel
+3:Porto de Moz
+3:Prainha
+3:Primavera
+3:Quatipuru
+3:Redenção
+3:Rio Maria
+3:Rondon do Pará
+3:Rurópolis
+3:Salinópolis
+3:Salvaterra
+3:Santa Bárbara do Pará
+3:Santa Cruz do Arari
+3:Santa Isabel do Pará
+3:Santa Luzia do Pará
+3:Santa Maria das Barreiras
+3:Santa Maria do Pará
+3:Santana do Araguaia
+3:Santarém
+3:Santarém Novo
+3:Santo Antônio do Tauá
+3:Sapucaia
+3:Senador José Porfírio
+3:Soure
+3:São Caetano de Odivelas
+3:São Domingos do Araguaia
+3:São Domingos do Capim
+3:São Francisco do Pará
+3:São Félix do Xingu
+3:São Geraldo do Araguaia
+3:São João da Ponta
+3:São João de Pirabas
+3:São João do Araguaia
+3:São Miguel do Guamá
+3:São Sebastião da Boa Vista
+3:Tailândia
+3:Terra Alta
+3:Terra Santa
+3:Tomé-Açu
+3:Tracuateua
+3:Trairão
+3:Tucumã
+3:Tucuruí
+3:Ulianópolis
+3:Uruará
+3:Vigia
+3:Viseu
+3:Vitória do Xingu
+3:Xinguara
+3:Água Azul do Norte
+2:Rondônia
+3:Alta Floresta d'Oeste
+3:Alto Alegre dos Parecis
+3:Alto Paraíso
+3:Alvorada d'Oeste
+3:Ariquemes
+3:Buritis
+3:Cabixi
+3:Cacaulândia
+3:Cacoal
+3:Campo Novo de Rondônia
+3:Candeias do Jamari
+3:Castanheiras
+3:Cerejeiras
+3:Chupinguaia
+3:Colorado do Oeste
+3:Corumbiara
+3:Costa Marques
+3:Cujubim
+3:Espigão d'Oeste
+3:Governador Jorge Teixeira
+3:Guajará-Mirim
+3:Itapuã do Oeste
+3:Jaru
+3:Ji-Paraná
+3:Machadinho d'Oeste
+3:Ministro Andreazza
+3:Mirante da Serra
+3:Monte Negro
+3:Nova Brasilândia d'Oeste
+3:Nova Mamoré
+3:Nova União
+3:Novo Horizonte do Oeste
+3:Ouro Preto do Oeste
+3:Parecis
+3:Pimenta Bueno
+3:Pimenteiras do Oeste
+3:Porto Velho
+3:Presidente Médici
+3:Primavera de Rondônia
+3:Rio Crespo
+3:Rolim de Moura
+3:Santa Luzia d'Oeste
+3:Seringueiras
+3:São Felipe d'Oeste
+3:São Francisco do Guaporé
+3:São Miguel do Guaporé
+3:Teixeirópolis
+3:Theobroma
+3:Urupá
+3:Vale do Anari
+3:Vale do Paraíso
+3:Vilhena
+2:Roraima
+3:Alto Alegre
+3:Amajari
+3:Boa Vista
+3:Bonfim
+3:Cantá
+3:Caracaraí
+3:Caroebe
+3:Iracema
+3:Mucajaí
+3:Normandia
+3:Pacaraima
+3:Rorainópolis
+3:São João da Baliza
+3:São Luís
+3:Uiramutã
+2:Tocantins
+3:Abreulândia
+3:Aguiarnópolis
+3:Aliança do Tocantins
+3:Almas
+3:Alvorada
+3:Ananás
+3:Angico
+3:Aparecida do Rio Negro
+3:Aragominas
+3:Araguacema
+3:Araguanã
+3:Araguatins
+3:Araguaçu
+3:Araguaína
+3:Arapoema
+3:Arraias
+3:Augustinópolis
+3:Aurora do Tocantins
+3:Axixá do Tocantins
+3:Bandeirantes do Tocantins
+3:Barra do Ouro
+3:Barrolândia
+3:Bernardo Sayão
+3:Bom Jesus do Tocantins
+3:Brasilândia do Tocantins
+3:Brejinho de Nazaré
+3:Buriti do Tocantins
+3:Cachoeirinha
+3:Campos Lindos
+3:Cariri do Tocantins
+3:Carmolândia
+3:Carrasco Bonito
+3:Caseara
+3:Centenário
+3:Chapada da Natividade
+3:Chapada de Areia
+3:Colinas do Tocantins
+3:Colmeia
+3:Combinado
+3:Conceição do Tocantins
+3:Couto de Magalhães
+3:Cristalândia
+3:Crixás do Tocantins
+3:Darcinópolis
+3:Dianópolis
+3:Divinópolis do Tocantins
+3:Dois Irmãos do Tocantins
+3:Dueré
+3:Esperantina
+3:Figueirópolis
+3:Filadélfia
+3:Fortaleza do Tabocão
+3:Fátima
+3:Goianorte
+3:Goiatins
+3:Guaraí
+3:Gurupi
+3:Ipueiras
+3:Itacajá
+3:Itaguatins
+3:Itapiratins
+3:Itaporã do Tocantins
+3:Jaú do Tocantins
+3:Juarina
+3:Lagoa da Confusão
+3:Lagoa do Tocantins
+3:Lavandeira
+3:Lizarda
+3:Luzinópolis
+3:Marianópolis do Tocantins
+3:Mateiros
+3:Maurilândia do Tocantins
+3:Miracema do Tocantins
+3:Miranorte
+3:Monte Santo do Tocantins
+3:Monte do Carmo
+3:Muricilândia
+3:Natividade
+3:Nazaré
+3:Nova Olinda
+3:Nova Rosalândia
+3:Novo Acordo
+3:Novo Alegre
+3:Novo Jardim
+3:Palmas
+3:Palmeirante
+3:Palmeiras do Tocantins
+3:Palmeirópolis
+3:Paranã
+3:Paraíso do Tocantins
+3:Pau-d'Arco
+3:Pedro Afonso
+3:Peixe
+3:Pequizeiro
+3:Pindorama do Tocantins
+3:Piraquê
+3:Pium
+3:Ponte Alta do Bom Jesus
+3:Ponte Alta do Tocantins
+3:Porto Alegre do Tocantins
+3:Porto Nacional
+3:Praia Norte
+3:Presidente Kennedy
+3:Pugmil
+3:Recursolândia
+3:Riachinho
+3:Rio Sono
+3:Rio da Conceição
+3:Rio dos Bois
+3:Sampaio
+3:Sandolândia
+3:Santa Fé do Araguaia
+3:Santa Maria do Tocantins
+3:Santa Rita do Tocantins
+3:Santa Rosa do Tocantins
+3:Santa Tereza do Tocantins
+3:Santa Terezinha do Tocantins
+3:Silvanópolis
+3:Sucupira
+3:São Bento do Tocantins
+3:São Félix do Tocantins
+3:São Miguel do Tocantins
+3:São Salvador do Tocantins
+3:São Sebastião do Tocantins
+3:São Valério da Natividade
+3:Sítio Novo do Tocantins
+3:Taguatinga
+3:Taipas do Tocantins
+3:Talismã
+3:Tocantinópolis
+3:Tocantínia
+3:Tupirama
+3:Tupiratins
+3:Wanderlândia
+1:Centro-Oeste
+2:Distrito Federal
+2:Goiás
+3:Abadiânia
+3:Acreúna
+3:Adelândia
+3:Alexânia
+3:Aloândia
+3:Alto Horizonte
+3:Alto Paraíso de Goiás
+3:Alvorada do Norte
+3:Amaralina
+3:Americano do Brasil
+3:Amorinópolis
+3:Anhanguera
+3:Anicuns
+3:Anápolis
+3:Aparecida de Goiânia
+3:Aparecida do Rio Doce
+3:Aporé
+3:Aragarças
+3:Aragoiânia
+3:Araguapaz
+3:Araçu
+3:Arenópolis
+3:Aruanã
+3:Aurilândia
+3:Avelinópolis
+3:Baliza
+3:Barro Alto
+3:Bela Vista de Goiás
+3:Bom Jardim de Goiás
+3:Bom Jesus de Goiás
+3:Bonfinópolis
+3:Bonópolis
+3:Brazabrantes
+3:Britânia
+3:Buriti Alegre
+3:Buriti de Goiás
+3:Buritinópolis
+3:Cabeceiras
+3:Cachoeira Alta
+3:Cachoeira Dourada
+3:Cachoeira de Goiás
+3:Caiapônia
+3:Caldas Novas
+3:Caldazinha
+3:Campestre de Goiás
+3:Campinaçu
+3:Campinorte
+3:Campo Alegre de Goiás
+3:Campo Limpo de Goiás
+3:Campos Belos
+3:Campos Verdes
+3:Carmo do Rio Verde
+3:Castelândia
+3:Catalão
+3:Caturaí
+3:Cavalcante
+3:Caçu
+3:Ceres
+3:Cezarina
+3:Chapadão do Céu
+3:Cidade Ocidental
+3:Cocalzinho de Goiás
+3:Colinas do Sul
+3:Corumbaíba
+3:Corumbá de Goiás
+3:Cristalina
+3:Cristianópolis
+3:Crixás
+3:Cromínia
+3:Cumari
+3:Córrego do Ouro
+3:Damolândia
+3:Davinópolis
+3:Divinópolis de Goiás
+3:Doverlândia
+3:Edealina
+3:Edeia
+3:Estrela do Norte
+3:Faina
+3:Fazenda Nova
+3:Firminópolis
+3:Flores de Goiás
+3:Formosa
+3:Formoso
+3:Gameleira de Goiás
+3:Goiandira
+3:Goianira
+3:Goianápolis
+3:Goianésia
+3:Goiás
+3:Goiânia
+3:Gouvelândia
+3:Guapó
+3:Guarani de Goiás
+3:Guaraíta
+3:Guarinos
+3:Heitoraí
+3:Hidrolina
+3:Hidrolândia
+3:Iaciara
+3:Inaciolândia
+3:Indiara
+3:Inhumas
+3:Ipameri
+3:Ipiranga de Goiás
+3:Iporá
+3:Israelândia
+3:Itaberaí
+3:Itaguari
+3:Itaguaru
+3:Itajá
+3:Itapaci
+3:Itapirapuã
+3:Itapuranga
+3:Itarumã
+3:Itauçu
+3:Itumbiara
+3:Ivolândia
+3:Jandaia
+3:Jaraguá
+3:Jataí
+3:Jaupaci
+3:Jesúpolis
+3:Joviânia
+3:Jussara
+3:Lagoa Santa
+3:Leopoldo de Bulhões
+3:Luziânia
+3:Mairipotaba
+3:Mambaí
+3:Mara Rosa
+3:Marzagão
+3:Matrinchã
+3:Maurilândia
+3:Mimoso de Goiás
+3:Minaçu
+3:Mineiros
+3:Moiporá
+3:Monte Alegre de Goiás
+3:Montes Claros de Goiás
+3:Montividiu
+3:Montividiu do Norte
+3:Morrinhos
+3:Morro Agudo de Goiás
+3:Mossâmedes
+3:Mozarlândia
+3:Mundo Novo
+3:Mutunópolis
+3:Nazário
+3:Nerópolis
+3:Niquelândia
+3:Nova América
+3:Nova Aurora
+3:Nova Crixás
+3:Nova Glória
+3:Nova Iguaçu de Goiás
+3:Nova Roma
+3:Nova Veneza
+3:Novo Brasil
+3:Novo Gama
+3:Novo Planalto
+3:Orizona
+3:Ouro Verde de Goiás
+3:Ouvidor
+3:Padre Bernardo
+3:Palestina de Goiás
+3:Palmeiras de Goiás
+3:Palmelo
+3:Palminópolis
+3:Panamá
+3:Paranaiguara
+3:Paraúna
+3:Perolândia
+3:Petrolina de Goiás
+3:Pilar de Goiás
+3:Piracanjuba
+3:Piranhas
+3:Pirenópolis
+3:Pires do Rio
+3:Planaltina
+3:Pontalina
+3:Porangatu
+3:Porteirão
+3:Portelândia
+3:Posse
+3:Professor Jamil
+3:Quirinópolis
+3:Rialma
+3:Rianápolis
+3:Rio Quente
+3:Rio Verde
+3:Rubiataba
+3:Sanclerlândia
+3:Santa Bárbara de Goiás
+3:Santa Cruz de Goiás
+3:Santa Fé de Goiás
+3:Santa Helena de Goiás
+3:Santa Isabel
+3:Santa Rita do Araguaia
+3:Santa Rita do Novo Destino
+3:Santa Rosa de Goiás
+3:Santa Tereza de Goiás
+3:Santa Terezinha de Goiás
+3:Santo Antônio da Barra
+3:Santo Antônio de Goiás
+3:Santo Antônio do Descoberto
+3:Senador Canedo
+3:Serranópolis
+3:Silvânia
+3:Simolândia
+3:São Domingos
+3:São Francisco de Goiás
+3:São João d'Aliança
+3:São João da Paraúna
+3:São Luís de Montes Belos
+3:São Luís do Norte
+3:São Miguel do Araguaia
+3:São Miguel do Passa-Quatro
+3:São Patrício
+3:São Simão
+3:Sítio d'Abadia
+3:Taquaral de Goiás
+3:Teresina de Goiás
+3:Terezópolis de Goiás
+3:Trindade
+3:Trombas
+3:Três Ranchos
+3:Turvelândia
+3:Turvânia
+3:Uirapuru
+3:Uruana
+3:Uruaçu
+3:Urutaí
+3:Valparaíso de Goiás
+3:Varjão
+3:Vianópolis
+3:Vicentinópolis
+3:Vila Boa
+3:Vila Propício
+3:Água Fria de Goiás
+3:Água Limpa
+3:Águas Lindas de Goiás
+2:Mato Grosso do Sul
+3:Alcinópolis
+3:Amambai
+3:Anastácio
+3:Anaurilândia
+3:Angélica
+3:Antônio João
+3:Aparecida do Taboado
+3:Aquidauana
+3:Aral Moreira
+3:Bandeirantes
+3:Bataguaçu
+3:Batayporã
+3:Bela Vista
+3:Bodoquena
+3:Bonito
+3:Brasilândia
+3:Caarapó
+3:Camapuã
+3:Campo Grande
+3:Caracol
+3:Cassilândia
+3:Chapadão do Sul
+3:Corguinho
+3:Coronel Sapucaia
+3:Corumbá
+3:Costa Rica
+3:Coxim
+3:Deodápolis
+3:Dois Irmãos do Buriti
+3:Douradina
+3:Dourados
+3:Eldorado
+3:Figueirão
+3:Fátima do Sul
+3:Glória de Dourados
+3:Guia Lopes da Laguna
+3:Iguatemi
+3:Inocência
+3:Itaporã
+3:Itaquiraí
+3:Ivinhema
+3:Japorã
+3:Jaraguari
+3:Jardim
+3:Jateí
+3:Juti
+3:Ladário
+3:Laguna Carapã
+3:Maracaju
+3:Miranda
+3:Mundo Novo
+3:Naviraí
+3:Nioaque
+3:Nova Alvorada do Sul
+3:Nova Andradina
+3:Novo Horizonte do Sul
+3:Paranaíba
+3:Paranhos
+3:Paraíso das Águas
+3:Pedro Gomes
+3:Ponta Porã
+3:Porto Murtinho
+3:Ribas do Rio Pardo
+3:Rio Brilhante
+3:Rio Negro
+3:Rio Verde de Mato Grosso
+3:Rochedo
+3:Santa Rita do Pardo
+3:Selvíria
+3:Sete Quedas
+3:Sidrolândia
+3:Sonora
+3:São Gabriel do Oeste
+3:Tacuru
+3:Taquarussu
+3:Terenos
+3:Três Lagoas
+3:Vicentina
+3:Água Clara
+2:Mato Grosso
+3:Acorizal
+3:Alta Floresta
+3:Alto Araguaia
+3:Alto Garças
+3:Alto Paraguai
+3:Alto Taquari
+3:Alto da Boa Vista
+3:Apiacás
+3:Araguaiana
+3:Araguainha
+3:Araputanga
+3:Arenápolis
+3:Aripuanã
+3:Barra do Bugres
+3:Barra do Garças
+3:Barão de Melgaço
+3:Bom Jesus do Araguaia
+3:Brasnorte
+3:Campinápolis
+3:Campo Novo do Parecis
+3:Campo Verde
+3:Campos de Júlio
+3:Canabrava do Norte
+3:Canarana
+3:Carlinda
+3:Castanheira
+3:Chapada dos Guimarães
+3:Cláudia
+3:Cocalinho
+3:Colniza
+3:Colíder
+3:Comodoro
+3:Confresa
+3:Conquista d'Oeste
+3:Cotriguaçu
+3:Cuiabá
+3:Curvelândia
+3:Cáceres
+3:Denise
+3:Diamantino
+3:Dom Aquino
+3:Feliz Natal
+3:Figueirópolis d'Oeste
+3:Gaúcha do Norte
+3:General Carneiro
+3:Glória d'Oeste
+3:Guarantã do Norte
+3:Guiratinga
+3:Indiavaí
+3:Ipiranga do Norte
+3:Itanhangá
+3:Itaúba
+3:Itiquira
+3:Jaciara
+3:Jangada
+3:Jauru
+3:Juara
+3:Juruena
+3:Juscimeira
+3:Juína
+3:Lambari d'Oeste
+3:Lucas do Rio Verde
+3:Luciara
+3:Marcelândia
+3:Matupá
+3:Mirassol d'Oeste
+3:Nobres
+3:Nortelândia
+3:Nossa Senhora do Livramento
+3:Nova Bandeirantes
+3:Nova Brasilândia
+3:Nova Canaã do Norte
+3:Nova Guarita
+3:Nova Lacerda
+3:Nova Marilândia
+3:Nova Maringá
+3:Nova Monte Verde
+3:Nova Mutum
+3:Nova Nazaré
+3:Nova Olímpia
+3:Nova Santa Helena
+3:Nova Ubiratã
+3:Nova Xavantina
+3:Novo Horizonte do Norte
+3:Novo Mundo
+3:Novo Santo Antônio
+3:Novo São Joaquim
+3:Paranatinga
+3:Paranaíta
+3:Pedra Preta
+3:Peixoto de Azevedo
+3:Planalto da Serra
+3:Poconé
+3:Pontal do Araguaia
+3:Ponte Branca
+3:Pontes e Lacerda
+3:Porto Alegre do Norte
+3:Porto Esperidião
+3:Porto Estrela
+3:Porto dos Gaúchos
+3:Poxoréu
+3:Primavera do Leste
+3:Querência
+3:Reserva do Cabaçal
+3:Ribeirão Cascalheira
+3:Ribeirãozinho
+3:Rio Branco
+3:Rondolândia
+3:Rondonópolis
+3:Rosário Oeste
+3:Salto do Céu
+3:Santa Carmem
+3:Santa Cruz do Xingu
+3:Santa Rita do Trivelato
+3:Santa Terezinha
+3:Santo Afonso
+3:Santo Antônio do Leste
+3:Santo Antônio do Leverger
+3:Sapezal
+3:Serra Nova Dourada
+3:Sinop
+3:Sorriso
+3:São Félix do Araguaia
+3:São José do Povo
+3:São José do Rio Claro
+3:São José do Xingu
+3:São José dos Quatro Marcos
+3:São Pedro da Cipa
+3:Tabaporã
+3:Tangará da Serra
+3:Tapurah
+3:Terra Nova do Norte
+3:Tesouro
+3:Torixoréu
+3:União do Sul
+3:Vale de São Domingos
+3:Vera
+3:Vila Rica
+3:Várzea Grande
+3:Água Boa
+1:Nordeste
+2:Alagoas
+3:Anadia
+3:Arapiraca
+3:Atalaia
+3:Barra de Santo Antônio
+3:Barra de São Miguel
+3:Batalha
+3:Belo Monte
+3:Belém
+3:Boca da Mata
+3:Branquinha
+3:Cacimbinhas
+3:Cajueiro
+3:Campestre
+3:Campo Alegre
+3:Campo Grande
+3:Canapi
+3:Capela
+3:Carneiros
+3:Chã Preta
+3:Coité do Noia
+3:Colônia Leopoldina
+3:Coqueiro Seco
+3:Coruripe
+3:Craíbas
+3:Delmiro Gouveia
+3:Dois Riachos
+3:Estrela de Alagoas
+3:Feira Grande
+3:Feliz Deserto
+3:Flexeiras
+3:Girau do Ponciano
+3:Ibateguara
+3:Igaci
+3:Igreja Nova
+3:Inhapi
+3:Jacaré dos Homens
+3:Jacuípe
+3:Japaratinga
+3:Jaramataia
+3:Jequiá da Praia
+3:Joaquim Gomes
+3:Jundiá
+3:Junqueiro
+3:Lagoa da Canoa
+3:Limoeiro de Anadia
+3:Maceió
+3:Major Isidoro
+3:Mar Vermelho
+3:Maragogi
+3:Maravilha
+3:Marechal Deodoro
+3:Maribondo
+3:Mata Grande
+3:Matriz de Camaragibe
+3:Messias
+3:Minador do Negrão
+3:Monteirópolis
+3:Murici
+3:Novo Lino
+3:Olho d'Água Grande
+3:Olho d'Água das Flores
+3:Olho d'Água do Casado
+3:Olivença
+3:Ouro Branco
+3:Palestina
+3:Palmeira dos Índios
+3:Pariconha
+3:Paripueira
+3:Passo de Camaragibe
+3:Paulo Jacinto
+3:Penedo
+3:Piaçabuçu
+3:Pilar
+3:Pindoba
+3:Piranhas
+3:Porto Calvo
+3:Porto Real do Colégio
+3:Porto de Pedras
+3:Poço das Trincheiras
+3:Pão de Açúcar
+3:Quebrangulo
+3:Rio Largo
+3:Roteiro
+3:Santa Luzia do Norte
+3:Santana do Ipanema
+3:Santana do Mundaú
+3:Satuba
+3:Senador Rui Palmeira
+3:São Brás
+3:São José da Laje
+3:São José da Tapera
+3:São Luís do Quitunde
+3:São Miguel dos Campos
+3:São Miguel dos Milagres
+3:São Sebastião
+3:Tanque d'Arca
+3:Taquarana
+3:Teotônio Vilela
+3:Traipu
+3:União dos Palmares
+3:Viçosa
+3:Água Branca
+2:Bahia
+3:Abaré
+3:Abaíra
+3:Acajutiba
+3:Adustina
+3:Aiquara
+3:Alagoinhas
+3:Alcobaça
+3:Almadina
+3:Amargosa
+3:Amélia Rodrigues
+3:América Dourada
+3:Anagé
+3:Andaraí
+3:Andorinha
+3:Angical
+3:Anguera
+3:Antas
+3:Antônio Cardoso
+3:Antônio Gonçalves
+3:Aporá
+3:Apuarema
+3:Aracatu
+3:Araci
+3:Aramari
+3:Arataca
+3:Aratuípe
+3:Araçás
+3:Aurelino Leal
+3:Baianópolis
+3:Baixa Grande
+3:Banzaê
+3:Barra
+3:Barra da Estiva
+3:Barra do Choça
+3:Barra do Mendes
+3:Barra do Rocha
+3:Barreiras
+3:Barro Alto
+3:Barro Preto
+3:Barrocas
+3:Belmonte
+3:Belo Campo
+3:Biritinga
+3:Boa Nova
+3:Boa Vista do Tupim
+3:Bom Jesus da Lapa
+3:Bom Jesus da Serra
+3:Boninal
+3:Bonito
+3:Boquira
+3:Botuporã
+3:Brejolândia
+3:Brejões
+3:Brotas de Macaúbas
+3:Brumado
+3:Buerarema
+3:Buritirama
+3:Caatiba
+3:Cabaceiras do Paraguaçu
+3:Cachoeira
+3:Caculé
+3:Caetanos
+3:Caetité
+3:Cafarnaum
+3:Cairu
+3:Caldeirão Grande
+3:Camacan
+3:Camamu
+3:Camaçari
+3:Campo Alegre de Lourdes
+3:Campo Formoso
+3:Canarana
+3:Canavieiras
+3:Candeal
+3:Candeias
+3:Candiba
+3:Cansanção
+3:Canudos
+3:Canápolis
+3:Capela do Alto Alegre
+3:Capim Grosso
+3:Caravelas
+3:Caraíbas
+3:Cardeal da Silva
+3:Carinhanha
+3:Casa Nova
+3:Castro Alves
+3:Catolândia
+3:Catu
+3:Caturama
+3:Caém
+3:Central
+3:Chorrochó
+3:Cipó
+3:Coaraci
+3:Cocos
+3:Conceição da Feira
+3:Conceição do Almeida
+3:Conceição do Coité
+3:Conceição do Jacuípe
+3:Conde
+3:Condeúba
+3:Contendas do Sincorá
+3:Coração de Maria
+3:Cordeiros
+3:Coribe
+3:Coronel João Sá
+3:Correntina
+3:Cotegipe
+3:Cravolândia
+3:Cristópolis
+3:Crisópolis
+3:Cruz das Almas
+3:Curaçá
+3:Cândido Sales
+3:Cícero Dantas
+3:Dias d'Ávila
+3:Dom Basílio
+3:Dom Macedo Costa
+3:Dário Meira
+3:Elísio Medrado
+3:Encruzilhada
+3:Entre Rios
+3:Esplanada
+3:Euclides da Cunha
+3:Eunápolis
+3:Feira da Mata
+3:Feira de Santana
+3:Filadélfia
+3:Firmino Alves
+3:Floresta Azul
+3:Formosa do Rio Preto
+3:Fátima
+3:Gandu
+3:Gavião
+3:Gentio do Ouro
+3:Glória
+3:Gongogi
+3:Governador Mangabeira
+3:Guajeru
+3:Guanambi
+3:Guaratinga
+3:Heliópolis
+3:Iaçu
+3:Ibiassucê
+3:Ibicaraí
+3:Ibicoara
+3:Ibicuí
+3:Ibipeba
+3:Ibipitanga
+3:Ibiquera
+3:Ibirapitanga
+3:Ibirapuã
+3:Ibirataia
+3:Ibitiara
+3:Ibititá
+3:Ibotirama
+3:Ichu
+3:Igaporã
+3:Igrapiúna
+3:Iguaí
+3:Ilhéus
+3:Inhambupe
+3:Ipecaetá
+3:Ipiaú
+3:Ipirá
+3:Ipupiara
+3:Irajuba
+3:Iramaia
+3:Iraquara
+3:Irará
+3:Irecê
+3:Itabela
+3:Itaberaba
+3:Itabuna
+3:Itacaré
+3:Itaetê
+3:Itagi
+3:Itagibá
+3:Itagimirim
+3:Itaguaçu da Bahia
+3:Itaju do Colônia
+3:Itamaraju
+3:Itamari
+3:Itambé
+3:Itanagra
+3:Itanhém
+3:Itaparica
+3:Itapebi
+3:Itapetinga
+3:Itapicuru
+3:Itapitanga
+3:Itapé
+3:Itaquara
+3:Itarantim
+3:Itatim
+3:Itiruçu
+3:Itiúba
+3:Itororó
+3:Ituaçu
+3:Ituberá
+3:Iuiú
+3:Jaborandi
+3:Jacaraci
+3:Jacobina
+3:Jaguaquara
+3:Jaguarari
+3:Jaguaripe
+3:Jandaíra
+3:Jequié
+3:Jeremoabo
+3:Jiquiriçá
+3:Jitaúna
+3:João Dourado
+3:Juazeiro
+3:Jucuruçu
+3:Jussara
+3:Jussari
+3:Jussiape
+3:Lafaiete Coutinho
+3:Lagoa Real
+3:Laje
+3:Lajedinho
+3:Lajedo do Tabocal
+3:Lajedão
+3:Lamarão
+3:Lapão
+3:Lauro de Freitas
+3:Lençóis
+3:Licínio de Almeida
+3:Livramento de Nossa Senhora
+3:Luís Eduardo Magalhães
+3:Macajuba
+3:Macarani
+3:Macaúbas
+3:Macururé
+3:Madre de Deus
+3:Maetinga
+3:Maiquinique
+3:Mairi
+3:Malhada
+3:Malhada de Pedras
+3:Manoel Vitorino
+3:Mansidão
+3:Maracás
+3:Maragogipe
+3:Maraú
+3:Marcionílio Souza
+3:Mascote
+3:Mata de São João
+3:Matina
+3:Medeiros Neto
+3:Miguel Calmon
+3:Milagres
+3:Mirangaba
+3:Mirante
+3:Monte Santo
+3:Morpará
+3:Morro do Chapéu
+3:Mortugaba
+3:Mucugê
+3:Mucuri
+3:Mulungu do Morro
+3:Mundo Novo
+3:Muniz Ferreira
+3:Muquém de São Francisco
+3:Muritiba
+3:Mutuípe
+3:Nazaré
+3:Nilo Peçanha
+3:Nordestina
+3:Nova Canaã
+3:Nova Fátima
+3:Nova Ibiá
+3:Nova Itarana
+3:Nova Redenção
+3:Nova Soure
+3:Nova Viçosa
+3:Novo Horizonte
+3:Novo Triunfo
+3:Olindina
+3:Oliveira dos Brejinhos
+3:Ouriçangas
+3:Ourolândia
+3:Palmas de Monte Alto
+3:Palmeiras
+3:Paramirim
+3:Paratinga
+3:Paripiranga
+3:Pau Brasil
+3:Paulo Afonso
+3:Pedro Alexandre
+3:Pedrão
+3:Piatã
+3:Pilão Arcado
+3:Pindaí
+3:Pindobaçu
+3:Pintadas
+3:Piraí do Norte
+3:Piripá
+3:Piritiba
+3:Planaltino
+3:Planalto
+3:Pojuca
+3:Ponto Novo
+3:Porto Seguro
+3:Potiraguá
+3:Poções
+3:Prado
+3:Presidente Dutra
+3:Presidente Jânio Quadros
+3:Presidente Tancredo Neves
+3:Pé de Serra
+3:Quijingue
+3:Quixabeira
+3:Rafael Jambeiro
+3:Remanso
+3:Retirolândia
+3:Riacho de Santana
+3:Riachão das Neves
+3:Riachão do Jacuípe
+3:Ribeira do Pombal
+3:Ribeirão do Largo
+3:Rio Real
+3:Rio de Contas
+3:Rio do Antônio
+3:Rio do Pires
+3:Rodelas
+3:Ruy Barbosa
+3:Salinas da Margarida
+3:Salvador
+3:Santa Brígida
+3:Santa Bárbara
+3:Santa Cruz Cabrália
+3:Santa Cruz da Vitória
+3:Santa Inês
+3:Santa Luzia
+3:Santa Maria da Vitória
+3:Santa Rita de Cássia
+3:Santa Teresinha
+3:Santaluz
+3:Santana
+3:Santanópolis
+3:Santo Amaro
+3:Santo Antônio de Jesus
+3:Santo Estêvão
+3:Sapeaçu
+3:Saubara
+3:Saúde
+3:Seabra
+3:Sebastião Laranjeiras
+3:Senhor do Bonfim
+3:Sento Sé
+3:Serra Dourada
+3:Serra Preta
+3:Serra do Ramalho
+3:Serrinha
+3:Serrolândia
+3:Simões Filho
+3:Sobradinho
+3:Souto Soares
+3:Sátiro Dias
+3:São Desidério
+3:São Domingos
+3:São Felipe
+3:São Francisco do Conde
+3:São Félix
+3:São Félix do Coribe
+3:São Gabriel
+3:São Gonçalo dos Campos
+3:São José da Vitória
+3:São José do Jacuípe
+3:São Miguel das Matas
+3:São Sebastião do Passé
+3:Sítio do Mato
+3:Sítio do Quinto
+3:Tabocas do Brejo Velho
+3:Tanhaçu
+3:Tanque Novo
+3:Tanquinho
+3:Taperoá
+3:Tapiramutá
+3:Teixeira de Freitas
+3:Teodoro Sampaio
+3:Teofilândia
+3:Teolândia
+3:Terra Nova
+3:Tremedal
+3:Tucano
+3:Uauá
+3:Ubaitaba
+3:Ubatã
+3:Ubaíra
+3:Uibaí
+3:Umburanas
+3:Una
+3:Urandi
+3:Uruçuca
+3:Utinga
+3:Valente
+3:Valença
+3:Varzedo
+3:Vera Cruz
+3:Vereda
+3:Vitória da Conquista
+3:Várzea Nova
+3:Várzea da Roça
+3:Várzea do Poço
+3:Xique-Xique
+3:Água Fria
+3:Érico Cardoso
+2:Ceará
+3:Abaiara
+3:Acarape
+3:Acaraú
+3:Acopiara
+3:Aiuaba
+3:Alcântaras
+3:Altaneira
+3:Alto Santo
+3:Amontada
+3:Antonina do Norte
+3:Apuiarés
+3:Aquiraz
+3:Aracati
+3:Aracoiaba
+3:Ararendá
+3:Araripe
+3:Aratuba
+3:Arneiroz
+3:Assaré
+3:Aurora
+3:Baixio
+3:Banabuiú
+3:Barbalha
+3:Barreira
+3:Barro
+3:Barroquinha
+3:Baturité
+3:Bela Cruz
+3:Boa Viagem
+3:Brejo Santo
+3:Camocim
+3:Campos Sales
+3:Canindé
+3:Capistrano
+3:Caridade
+3:Caririaçu
+3:Cariré
+3:Cariús
+3:Carnaubal
+3:Cascavel
+3:Catarina
+3:Catunda
+3:Caucaia
+3:Cedro
+3:Chaval
+3:Chorozinho
+3:Choró
+3:Coreaú
+3:Crateús
+3:Crato
+3:Croatá
+3:Cruz
+3:Deputado Irapuan Pinheiro
+3:Ererê
+3:Eusébio
+3:Farias Brito
+3:Forquilha
+3:Fortaleza
+3:Fortim
+3:Frecheirinha
+3:General Sampaio
+3:Granja
+3:Granjeiro
+3:Graça
+3:Groaíras
+3:Guaiúba
+3:Guaraciaba do Norte
+3:Guaramiranga
+3:Horizonte
+3:Ibaretama
+3:Ibiapina
+3:Ibicuitinga
+3:Icapuí
+3:Icó
+3:Iguatu
+3:Independência
+3:Ipaporanga
+3:Ipaumirim
+3:Ipu
+3:Ipueiras
+3:Iracema
+3:Irauçuba
+3:Itaitinga
+3:Itaiçaba
+3:Itapajé
+3:Itapipoca
+3:Itapiúna
+3:Itarema
+3:Itatira
+3:Jaguaretama
+3:Jaguaribara
+3:Jaguaribe
+3:Jaguaruana
+3:Jardim
+3:Jati
+3:Jijoca de Jericoacoara
+3:Juazeiro do Norte
+3:Jucás
+3:Lavras da Mangabeira
+3:Limoeiro do Norte
+3:Madalena
+3:Maracanaú
+3:Maranguape
+3:Marco
+3:Martinópole
+3:Massapê
+3:Mauriti
+3:Meruoca
+3:Milagres
+3:Milhã
+3:Miraíma
+3:Missão Velha
+3:Mombaça
+3:Monsenhor Tabosa
+3:Morada Nova
+3:Moraújo
+3:Morrinhos
+3:Mucambo
+3:Mulungu
+3:Nova Olinda
+3:Nova Russas
+3:Novo Oriente
+3:Ocara
+3:Orós
+3:Pacajus
+3:Pacatuba
+3:Pacoti
+3:Pacujá
+3:Palhano
+3:Palmácia
+3:Paracuru
+3:Paraipaba
+3:Parambu
+3:Paramoti
+3:Pedra Branca
+3:Penaforte
+3:Pentecoste
+3:Pereiro
+3:Pindoretama
+3:Piquet Carneiro
+3:Pires Ferreira
+3:Poranga
+3:Porteiras
+3:Potengi
+3:Potiretama
+3:Quiterianópolis
+3:Quixadá
+3:Quixelô
+3:Quixeramobim
+3:Quixeré
+3:Redenção
+3:Reriutaba
+3:Russas
+3:Saboeiro
+3:Salitre
+3:Santa Quitéria
+3:Santana do Acaraú
+3:Santana do Cariri
+3:Senador Pompeu
+3:Senador Sá
+3:Sobral
+3:Solonópole
+3:São Benedito
+3:São Gonçalo do Amarante
+3:São João do Jaguaribe
+3:São Luís do Curu
+3:Tabuleiro do Norte
+3:Tamboril
+3:Tarrafas
+3:Tauá
+3:Tejuçuoca
+3:Tianguá
+3:Trairi
+3:Tururu
+3:Ubajara
+3:Umari
+3:Umirim
+3:Uruburetama
+3:Uruoca
+3:Varjota
+3:Viçosa do Ceará
+3:Várzea Alegre
+2:Maranhão
+3:Afonso Cunha
+3:Alcântara
+3:Aldeias Altas
+3:Altamira do Maranhão
+3:Alto Alegre do Maranhão
+3:Alto Alegre do Pindaré
+3:Alto Parnaíba
+3:Amapá do Maranhão
+3:Amarante do Maranhão
+3:Anajatuba
+3:Anapurus
+3:Apicum-Açu
+3:Araguanã
+3:Araioses
+3:Arame
+3:Arari
+3:Axixá
+3:Açailândia
+3:Bacabal
+3:Bacabeira
+3:Bacuri
+3:Bacurituba
+3:Balsas
+3:Barra do Corda
+3:Barreirinhas
+3:Barão de Grajaú
+3:Bela Vista do Maranhão
+3:Belágua
+3:Benedito Leite
+3:Bequimão
+3:Bernardo do Mearim
+3:Boa Vista do Gurupi
+3:Bom Jardim
+3:Bom Jesus das Selvas
+3:Bom Lugar
+3:Brejo
+3:Brejo de Areia
+3:Buriti
+3:Buriti Bravo
+3:Buriticupu
+3:Buritirana
+3:Cachoeira Grande
+3:Cajapió
+3:Cajari
+3:Campestre do Maranhão
+3:Cantanhede
+3:Capinzal do Norte
+3:Carolina
+3:Carutapera
+3:Caxias
+3:Cedral
+3:Central do Maranhão
+3:Centro Novo do Maranhão
+3:Centro do Guilherme
+3:Chapadinha
+3:Cidelândia
+3:Codó
+3:Coelho Neto
+3:Colinas
+3:Conceição do Lago Açu
+3:Coroatá
+3:Cururupu
+3:Cândido Mendes
+3:Davinópolis
+3:Dom Pedro
+3:Duque Bacelar
+3:Esperantinópolis
+3:Estreito
+3:Feira Nova do Maranhão
+3:Fernando Falcão
+3:Formosa da Serra Negra
+3:Fortaleza dos Nogueiras
+3:Fortuna
+3:Godofredo Viana
+3:Gonçalves Dias
+3:Governador Archer
+3:Governador Edison Lobão
+3:Governador Eugênio Barros
+3:Governador Luiz Rocha
+3:Governador Newton Bello
+3:Governador Nunes Freire
+3:Grajaú
+3:Graça Aranha
+3:Guimarães
+3:Humberto de Campos
+3:Icatu
+3:Igarapé Grande
+3:Igarapé do Meio
+3:Imperatriz
+3:Itaipava do Grajaú
+3:Itapecuru-Mirim
+3:Itinga do Maranhão
+3:Jatobá
+3:Jenipapo dos Vieiras
+3:Joselândia
+3:João Lisboa
+3:Junco do Maranhão
+3:Lago Verde
+3:Lago da Pedra
+3:Lago do Junco
+3:Lago dos Rodrigues
+3:Lagoa Grande do Maranhão
+3:Lagoa do Mato
+3:Lajeado Novo
+3:Lima Campos
+3:Loreto
+3:Luís Domingues
+3:Magalhães de Almeida
+3:Maracaçumé
+3:Marajá do Sena
+3:Maranhãozinho
+3:Mata Roma
+3:Matinha
+3:Matões
+3:Matões do Norte
+3:Milagres do Maranhão
+3:Mirador
+3:Miranda do Norte
+3:Mirinzal
+3:Montes Altos
+3:Monção
+3:Morros
+3:Nina Rodrigues
+3:Nova Colinas
+3:Nova Iorque
+3:Nova Olinda do Maranhão
+3:Olho d'Água das Cunhãs
+3:Olinda Nova do Maranhão
+3:Palmeirândia
+3:Paraibano
+3:Parnarama
+3:Passagem Franca
+3:Pastos Bons
+3:Paulino Neves
+3:Paulo Ramos
+3:Paço do Lumiar
+3:Pedreiras
+3:Pedro do Rosário
+3:Penalva
+3:Peri Mirim
+3:Peritoró
+3:Pindaré-Mirim
+3:Pinheiro
+3:Pio XII
+3:Pirapemas
+3:Porto Franco
+3:Porto Rico do Maranhão
+3:Poção de Pedras
+3:Presidente Dutra
+3:Presidente Juscelino
+3:Presidente Médici
+3:Presidente Sarney
+3:Presidente Vargas
+3:Primeira Cruz
+3:Raposa
+3:Riachão
+3:Ribamar Fiquene
+3:Rosário
+3:Sambaíba
+3:Santa Filomena do Maranhão
+3:Santa Helena
+3:Santa Inês
+3:Santa Luzia
+3:Santa Luzia do Paruá
+3:Santa Quitéria do Maranhão
+3:Santa Rita
+3:Santana do Maranhão
+3:Santo Amaro do Maranhão
+3:Santo Antônio dos Lopes
+3:Satubinha
+3:Senador Alexandre Costa
+3:Senador La Rocque
+3:Serrano do Maranhão
+3:Sucupira do Norte
+3:Sucupira do Riachão
+3:São Benedito do Rio Preto
+3:São Bento
+3:São Bernardo
+3:São Domingos do Azeitão
+3:São Domingos do Maranhão
+3:São Francisco do Brejão
+3:São Francisco do Maranhão
+3:São Félix de Balsas
+3:São José de Ribamar
+3:São José dos Basílios
+3:São João Batista
+3:São João do Caru
+3:São João do Paraíso
+3:São João do Soter
+3:São João dos Patos
+3:São Luís
+3:São Luís Gonzaga do Maranhão
+3:São Mateus do Maranhão
+3:São Pedro da Água Branca
+3:São Pedro dos Crentes
+3:São Raimundo das Mangabeiras
+3:São Raimundo do Doca Bezerra
+3:São Roberto
+3:São Vicente Ferrer
+3:Sítio Novo
+3:Tasso Fragoso
+3:Timbiras
+3:Timon
+3:Trizidela do Vale
+3:Tufilândia
+3:Tuntum
+3:Turiaçu
+3:Turilândia
+3:Tutóia
+3:Vargem Grande
+3:Viana
+3:Vila Nova dos Martírios
+3:Vitorino Freire
+3:Vitória do Mearim
+3:Água Doce do Maranhão
+2:Paraíba
+3:Aguiar
+3:Alagoa Grande
+3:Alagoa Nova
+3:Alagoinha
+3:Alcantil
+3:Algodão de Jandaíra
+3:Alhandra
+3:Amparo
+3:Aparecida
+3:Arara
+3:Araruna
+3:Araçagi
+3:Areia
+3:Areia de Baraúnas
+3:Areial
+3:Aroeiras
+3:Assunção
+3:Bananeiras
+3:Baraúna
+3:Barra de Santa Rosa
+3:Barra de Santana
+3:Barra de São Miguel
+3:Bayeux
+3:Baía da Traição
+3:Belém
+3:Belém do Brejo do Cruz
+3:Bernardino Batista
+3:Boa Ventura
+3:Boa Vista
+3:Bom Jesus
+3:Bom Sucesso
+3:Bonito de Santa Fé
+3:Boqueirão
+3:Borborema
+3:Brejo do Cruz
+3:Brejo dos Santos
+3:Caaporã
+3:Cabaceiras
+3:Cabedelo
+3:Cachoeira dos Índios
+3:Cacimba de Areia
+3:Cacimba de Dentro
+3:Cacimbas
+3:Caiçara
+3:Cajazeiras
+3:Cajazeirinhas
+3:Caldas Brandão
+3:Camalaú
+3:Campina Grande
+3:Capim
+3:Caraúbas
+3:Carrapateira
+3:Casserengue
+3:Catingueira
+3:Catolé do Rocha
+3:Caturité
+3:Conceição
+3:Condado
+3:Conde
+3:Congo
+3:Coremas
+3:Coxixola
+3:Cruz do Espírito Santo
+3:Cubati
+3:Cuitegi
+3:Cuité
+3:Cuité de Mamanguape
+3:Curral Velho
+3:Curral de Cima
+3:Damião
+3:Desterro
+3:Diamante
+3:Dona Inês
+3:Duas Estradas
+3:Emas
+3:Esperança
+3:Frei Martinho
+3:Gado Bravo
+3:Guarabira
+3:Gurinhém
+3:Gurjão
+3:Ibiara
+3:Igaracy
+3:Imaculada
+3:Ingá
+3:Itabaiana
+3:Itaporanga
+3:Itapororoca
+3:Itatuba
+3:Jacaraú
+3:Jericó
+3:Joca Claudino
+3:João Pessoa
+3:Juarez Távora
+3:Juazeirinho
+3:Junco do Seridó
+3:Juripiranga
+3:Juru
+3:Lagoa
+3:Lagoa Seca
+3:Lagoa de Dentro
+3:Lastro
+3:Livramento
+3:Logradouro
+3:Lucena
+3:Malta
+3:Mamanguape
+3:Manaíra
+3:Marcação
+3:Mari
+3:Marizópolis
+3:Massaranduba
+3:Mataraca
+3:Matinhas
+3:Mato Grosso
+3:Matureia
+3:Mogeiro
+3:Montadas
+3:Monte Horebe
+3:Monteiro
+3:Mulungu
+3:Mãe d'Água
+3:Natuba
+3:Nazarezinho
+3:Nova Floresta
+3:Nova Olinda
+3:Nova Palmeira
+3:Olho d'Água
+3:Olivedos
+3:Ouro Velho
+3:Parari
+3:Passagem
+3:Patos
+3:Paulista
+3:Pedra Branca
+3:Pedra Lavrada
+3:Pedras de Fogo
+3:Pedro Régis
+3:Piancó
+3:Picuí
+3:Pilar
+3:Pilões
+3:Pilõezinhos
+3:Pirpirituba
+3:Pitimbu
+3:Pocinhos
+3:Pombal
+3:Poço Dantas
+3:Poço de José de Moura
+3:Prata
+3:Princesa Isabel
+3:Puxinanã
+3:Queimadas
+3:Quixaba
+3:Remígio
+3:Riacho de Santo Antônio
+3:Riacho dos Cavalos
+3:Riachão
+3:Riachão do Bacamarte
+3:Riachão do Poço
+3:Rio Tinto
+3:Salgadinho
+3:Salgado de São Félix
+3:Santa Cecília
+3:Santa Cruz
+3:Santa Helena
+3:Santa Inês
+3:Santa Luzia
+3:Santa Rita
+3:Santa Teresinha
+3:Santana de Mangueira
+3:Santana dos Garrotes
+3:Santo André
+3:Sapé
+3:Seridó
+3:Serra Branca
+3:Serra Grande
+3:Serra Redonda
+3:Serra da Raiz
+3:Serraria
+3:Sertãozinho
+3:Sobrado
+3:Soledade
+3:Solânea
+3:Sossêgo
+3:Sousa
+3:Sumé
+3:São Bento
+3:São Bento de Pombal
+3:São Domingos
+3:São Domingos do Cariri
+3:São Francisco
+3:São José da Lagoa Tapada
+3:São José de Caiana
+3:São José de Espinharas
+3:São José de Piranhas
+3:São José de Princesa
+3:São José do Bonfim
+3:São José do Brejo do Cruz
+3:São José do Sabugi
+3:São José dos Cordeiros
+3:São José dos Ramos
+3:São João do Cariri
+3:São João do Rio do Peixe
+3:São João do Tigre
+3:São Mamede
+3:São Miguel de Taipu
+3:São Sebastião de Lagoa de Roça
+3:São Sebastião do Umbuzeiro
+3:Tacima
+3:Taperoá
+3:Tavares
+3:Teixeira
+3:Tenório
+3:Triunfo
+3:Uiraúna
+3:Umbuzeiro
+3:Vieirópolis
+3:Vista Serrana
+3:Várzea
+3:Água Branca
+2:Pernambuco
+3:Abreu e Lima
+3:Afogados da Ingazeira
+3:Afrânio
+3:Agrestina
+3:Alagoinha
+3:Aliança
+3:Altinho
+3:Amaraji
+3:Angelim
+3:Araripina
+3:Araçoiaba
+3:Arcoverde
+3:Barra de Guabiraba
+3:Barreiros
+3:Belo Jardim
+3:Belém de Maria
+3:Belém do São Francisco
+3:Betânia
+3:Bezerros
+3:Bodocó
+3:Bom Conselho
+3:Bom Jardim
+3:Bonito
+3:Brejinho
+3:Brejo da Madre de Deus
+3:Brejão
+3:Buenos Aires
+3:Buíque
+3:Cabo de Santo Agostinho
+3:Cabrobó
+3:Cachoeirinha
+3:Caetés
+3:Calumbi
+3:Calçado
+3:Camaragibe
+3:Camocim de São Félix
+3:Camutanga
+3:Canhotinho
+3:Capoeiras
+3:Carnaubeira da Penha
+3:Carnaíba
+3:Carpina
+3:Caruaru
+3:Casinhas
+3:Catende
+3:Cedro
+3:Chã Grande
+3:Chã de Alegria
+3:Condado
+3:Correntes
+3:Cortês
+3:Cumaru
+3:Cupira
+3:Custódia
+3:Dormentes
+3:Escada
+3:Exu
+3:Feira Nova
+3:Flores
+3:Floresta
+3:Frei Miguelinho
+3:Gameleira
+3:Garanhuns
+3:Glória do Goitá
+3:Goiana
+3:Granito
+3:Gravatá
+3:Iati
+3:Ibimirim
+3:Ibirajuba
+3:Igarassu
+3:Iguaraci
+3:Ilha de Itamaracá
+3:Inajá
+3:Ingazeira
+3:Ipojuca
+3:Ipubi
+3:Itacuruba
+3:Itambé
+3:Itapetim
+3:Itapissuma
+3:Itaquitinga
+3:Itaíba
+3:Jataúba
+3:Jatobá
+3:João Alfredo
+3:Jucati
+3:Jupi
+3:Jurema
+3:Lagoa Grande
+3:Lagoa de Itaenga
+3:Lagoa do Carro
+3:Lagoa do Ouro
+3:Lagoa dos Gatos
+3:Lajedo
+3:Limoeiro
+3:Macaparana
+3:Machados
+3:Manari
+3:Maraial
+3:Mirandiba
+3:Moreilândia
+3:Moreno
+3:Nazaré da Mata
+3:Olinda
+3:Orobó
+3:Orocó
+3:Ouricuri
+3:Palmares
+3:Palmeirina
+3:Panelas
+3:Paranatama
+3:Parnamirim
+3:Passira
+3:Paudalho
+3:Paulista
+3:Pedra
+3:Pesqueira
+3:Petrolina
+3:Petrolândia
+3:Pombos
+3:Poção
+3:Primavera
+3:Quipapá
+3:Quixaba
+3:Recife
+3:Riacho das Almas
+3:Ribeirão
+3:Rio Formoso
+3:Sairé
+3:Salgadinho
+3:Salgueiro
+3:Saloá
+3:Sanharó
+3:Santa Cruz
+3:Santa Cruz da Baixa Verde
+3:Santa Cruz do Capibaribe
+3:Santa Filomena
+3:Santa Maria da Boa Vista
+3:Santa Maria do Cambucá
+3:Santa Terezinha
+3:Serra Talhada
+3:Serrita
+3:Sertânia
+3:Sirinhaém
+3:Solidão
+3:Surubim
+3:São Benedito do Sul
+3:São Bento do Una
+3:São Caetano
+3:São Joaquim do Monte
+3:São José da Coroa Grande
+3:São José do Belmonte
+3:São José do Egito
+3:São João
+3:São Lourenço da Mata
+3:São Vicente Ferrer
+3:Tabira
+3:Tacaimbó
+3:Tacaratu
+3:Tamandaré
+3:Taquaritinga do Norte
+3:Terezinha
+3:Terra Nova
+3:Timbaúba
+3:Toritama
+3:Tracunhaém
+3:Trindade
+3:Triunfo
+3:Tupanatinga
+3:Tuparetama
+3:Venturosa
+3:Verdejante
+3:Vertente do Lério
+3:Vertentes
+3:Vicência
+3:Vitória de Santo Antão
+3:Água Preta
+3:Águas Belas
+2:Piauí
+3:Acauã
+3:Agricolândia
+3:Alagoinha do Piauí
+3:Alegrete do Piauí
+3:Alto Longá
+3:Altos
+3:Alvorada do Gurgueia
+3:Amarante
+3:Angical do Piauí
+3:Antônio Almeida
+3:Anísio de Abreu
+3:Aroazes
+3:Aroeiras do Itaim
+3:Arraial
+3:Assunção do Piauí
+3:Avelino Lopes
+3:Baixa Grande do Ribeiro
+3:Barra d'Alcântara
+3:Barras
+3:Barreiras do Piauí
+3:Barro Duro
+3:Batalha
+3:Bela Vista do Piauí
+3:Belém do Piauí
+3:Beneditinos
+3:Bertolínia
+3:Betânia do Piauí
+3:Boa Hora
+3:Bocaina
+3:Bom Jesus
+3:Bom Princípio do Piauí
+3:Bonfim do Piauí
+3:Boqueirão do Piauí
+3:Brasileira
+3:Brejo do Piauí
+3:Buriti dos Lopes
+3:Buriti dos Montes
+3:Cabeceiras do Piauí
+3:Cajazeiras do Piauí
+3:Cajueiro da Praia
+3:Caldeirão Grande do Piauí
+3:Campinas do Piauí
+3:Campo Alegre do Fidalgo
+3:Campo Grande do Piauí
+3:Campo Largo do Piauí
+3:Campo Maior
+3:Canavieira
+3:Canto do Buriti
+3:Capitão Gervásio Oliveira
+3:Capitão de Campos
+3:Caracol
+3:Caraúbas do Piauí
+3:Caridade do Piauí
+3:Castelo do Piauí
+3:Caxingó
+3:Cocal
+3:Cocal de Telha
+3:Cocal dos Alves
+3:Coivaras
+3:Colônia do Gurgueia
+3:Colônia do Piauí
+3:Conceição do Canindé
+3:Coronel José Dias
+3:Corrente
+3:Cristalândia do Piauí
+3:Cristino Castro
+3:Curimatá
+3:Currais
+3:Curral Novo do Piauí
+3:Curralinhos
+3:Demerval Lobão
+3:Dirceu Arcoverde
+3:Dom Expedito Lopes
+3:Dom Inocêncio
+3:Domingos Mourão
+3:Elesbão Veloso
+3:Eliseu Martins
+3:Esperantina
+3:Fartura do Piauí
+3:Flores do Piauí
+3:Floresta do Piauí
+3:Floriano
+3:Francinópolis
+3:Francisco Ayres
+3:Francisco Macedo
+3:Francisco Santos
+3:Fronteiras
+3:Geminiano
+3:Gilbués
+3:Guadalupe
+3:Guaribas
+3:Hugo Napoleão
+3:Ilha Grande
+3:Inhuma
+3:Ipiranga do Piauí
+3:Isaías Coelho
+3:Itainópolis
+3:Itaueira
+3:Jacobina do Piauí
+3:Jaicós
+3:Jardim do Mulato
+3:Jatobá do Piauí
+3:Jerumenha
+3:Joaquim Pires
+3:Joca Marques
+3:José de Freitas
+3:João Costa
+3:Juazeiro do Piauí
+3:Jurema
+3:Júlio Borges
+3:Lagoa Alegre
+3:Lagoa de São Francisco
+3:Lagoa do Barro do Piauí
+3:Lagoa do Piauí
+3:Lagoa do Sítio
+3:Lagoinha do Piauí
+3:Landri Sales
+3:Luzilândia
+3:Luís Correia
+3:Madeiro
+3:Manoel Emídio
+3:Marcolândia
+3:Marcos Parente
+3:Massapê do Piauí
+3:Matias Olímpio
+3:Miguel Alves
+3:Miguel Leão
+3:Milton Brandão
+3:Monsenhor Gil
+3:Monsenhor Hipólito
+3:Monte Alegre do Piauí
+3:Morro Cabeça no Tempo
+3:Morro do Chapéu do Piauí
+3:Murici dos Portelas
+3:Nazaré do Piauí
+3:Nazária
+3:Nossa Senhora de Nazaré
+3:Nossa Senhora dos Remédios
+3:Nova Santa Rita
+3:Novo Oriente do Piauí
+3:Novo Santo Antônio
+3:Oeiras
+3:Olho d'Água do Piauí
+3:Padre Marcos
+3:Paes Landim
+3:Pajeú do Piauí
+3:Palmeira do Piauí
+3:Palmeirais
+3:Paquetá
+3:Parnaguá
+3:Parnaíba
+3:Passagem Franca do Piauí
+3:Patos do Piauí
+3:Pau-d'Arco do Piauí
+3:Paulistana
+3:Pavussu
+3:Pedro II
+3:Pedro Laurentino
+3:Picos
+3:Pimenteiras
+3:Pio IX
+3:Piracuruca
+3:Piripiri
+3:Porto
+3:Porto Alegre do Piauí
+3:Prata do Piauí
+3:Queimada Nova
+3:Redenção do Gurgueia
+3:Regeneração
+3:Riacho Frio
+3:Ribeira do Piauí
+3:Ribeiro Gonçalves
+3:Rio Grande do Piauí
+3:Santa Cruz do Piauí
+3:Santa Cruz dos Milagres
+3:Santa Filomena
+3:Santa Luz
+3:Santa Rosa do Piauí
+3:Santana do Piauí
+3:Santo Antônio de Lisboa
+3:Santo Antônio dos Milagres
+3:Santo Inácio do Piauí
+3:Sebastião Barros
+3:Sebastião Leal
+3:Sigefredo Pacheco
+3:Simplício Mendes
+3:Simões
+3:Socorro do Piauí
+3:Sussuapara
+3:São Braz do Piauí
+3:São Francisco de Assis do Piauí
+3:São Francisco do Piauí
+3:São Félix do Piauí
+3:São Gonçalo do Gurgueia
+3:São Gonçalo do Piauí
+3:São José do Divino
+3:São José do Peixe
+3:São José do Piauí
+3:São João da Canabrava
+3:São João da Fronteira
+3:São João da Serra
+3:São João da Varjota
+3:São João do Arraial
+3:São João do Piauí
+3:São Julião
+3:São Lourenço do Piauí
+3:São Luís do Piauí
+3:São Miguel da Baixa Grande
+3:São Miguel do Fidalgo
+3:São Miguel do Tapuio
+3:São Pedro do Piauí
+3:São Raimundo Nonato
+3:Tamboril do Piauí
+3:Tanque do Piauí
+3:Teresina
+3:União
+3:Uruçuí
+3:Valença do Piauí
+3:Vera Mendes
+3:Vila Nova do Piauí
+3:Várzea Branca
+3:Várzea Grande
+3:Wall Ferraz
+3:Água Branca
+2:Rio Grande do Norte
+3:Acari
+3:Afonso Bezerra
+3:Alexandria
+3:Almino Afonso
+3:Alto do Rodrigues
+3:Angicos
+3:Antônio Martins
+3:Apodi
+3:Areia Branca
+3:Arês
+3:Açu
+3:Baraúna
+3:Barcelona
+3:Baía Formosa
+3:Bento Fernandes
+3:Boa Saúde
+3:Bodó
+3:Bom Jesus
+3:Brejinho
+3:Caicó
+3:Caiçara do Norte
+3:Caiçara do Rio do Vento
+3:Campo Grande
+3:Campo Redondo
+3:Canguaretama
+3:Caraúbas
+3:Carnaubais
+3:Carnaúba dos Dantas
+3:Ceará-Mirim
+3:Cerro Corá
+3:Coronel Ezequiel
+3:Coronel João Pessoa
+3:Cruzeta
+3:Currais Novos
+3:Doutor Severiano
+3:Encanto
+3:Equador
+3:Extremoz
+3:Felipe Guerra
+3:Fernando Pedroza
+3:Florânia
+3:Francisco Dantas
+3:Frutuoso Gomes
+3:Galinhos
+3:Goianinha
+3:Governador Dix-Sept Rosado
+3:Grossos
+3:Guamaré
+3:Ielmo Marinho
+3:Ipanguaçu
+3:Ipueira
+3:Itajá
+3:Itaú
+3:Jandaíra
+3:Janduís
+3:Japi
+3:Jardim de Angicos
+3:Jardim de Piranhas
+3:Jardim do Seridó
+3:Jaçanã
+3:José da Penha
+3:João Câmara
+3:João Dias
+3:Jucurutu
+3:Jundiá
+3:Lagoa Nova
+3:Lagoa Salgada
+3:Lagoa d'Anta
+3:Lagoa de Pedras
+3:Lagoa de Velhos
+3:Lajes
+3:Lajes Pintadas
+3:Lucrécia
+3:Luís Gomes
+3:Macau
+3:Macaíba
+3:Major Sales
+3:Marcelino Vieira
+3:Martins
+3:Maxaranguape
+3:Messias Targino
+3:Montanhas
+3:Monte Alegre
+3:Monte das Gameleiras
+3:Mossoró
+3:Natal
+3:Nova Cruz
+3:Nísia Floresta
+3:Olho d'Água do Borges
+3:Ouro Branco
+3:Paraná
+3:Parazinho
+3:Paraú
+3:Parelhas
+3:Parnamirim
+3:Passa-e-Fica
+3:Passagem
+3:Patu
+3:Pau dos Ferros
+3:Pedra Grande
+3:Pedra Preta
+3:Pedro Avelino
+3:Pedro Velho
+3:Pendências
+3:Pilões
+3:Portalegre
+3:Porto do Mangue
+3:Poço Branco
+3:Pureza
+3:Rafael Godeiro
+3:Riacho da Cruz
+3:Riacho de Santana
+3:Riachuelo
+3:Rio do Fogo
+3:Rodolfo Fernandes
+3:Ruy Barbosa
+3:Santa Cruz
+3:Santa Maria
+3:Santana do Matos
+3:Santana do Seridó
+3:Santo Antônio
+3:Senador Elói de Souza
+3:Senador Georgino Avelino
+3:Serra Caiada
+3:Serra Negra do Norte
+3:Serra de São Bento
+3:Serra do Mel
+3:Serrinha
+3:Serrinha dos Pintos
+3:Severiano Melo
+3:São Bento do Norte
+3:São Bento do Trairi
+3:São Fernando
+3:São Francisco do Oeste
+3:São Gonçalo do Amarante
+3:São José de Mipibu
+3:São José do Campestre
+3:São José do Seridó
+3:São João do Sabugi
+3:São Miguel
+3:São Miguel do Gostoso
+3:São Paulo do Potengi
+3:São Pedro
+3:São Rafael
+3:São Tomé
+3:São Vicente
+3:Sítio Novo
+3:Taboleiro Grande
+3:Taipu
+3:Tangará
+3:Tenente Ananias
+3:Tenente Laurentino Cruz
+3:Tibau
+3:Tibau do Sul
+3:Timbaúba dos Batistas
+3:Triunfo Potiguar
+3:Upanema
+3:Venha-Ver
+3:Vera Cruz
+3:Vila Flor
+3:Viçosa
+3:Várzea
+3:Água Nova
+2:Sergipe
+3:Amparo de São Francisco
+3:Aquidabã
+3:Aracaju
+3:Arauá
+3:Areia Branca
+3:Barra dos Coqueiros
+3:Boquim
+3:Brejo Grande
+3:Campo do Brito
+3:Canhoba
+3:Canindé de São Francisco
+3:Capela
+3:Carira
+3:Carmópolis
+3:Cedro de São João
+3:Cristinápolis
+3:Cumbe
+3:Divina Pastora
+3:Estância
+3:Feira Nova
+3:Frei Paulo
+3:Gararu
+3:General Maynard
+3:Graccho Cardoso
+3:Ilha das Flores
+3:Indiaroba
+3:Itabaiana
+3:Itabaianinha
+3:Itabi
+3:Itaporanga d'Ajuda
+3:Japaratuba
+3:Japoatã
+3:Lagarto
+3:Laranjeiras
+3:Macambira
+3:Malhada dos Bois
+3:Malhador
+3:Maruim
+3:Moita Bonita
+3:Monte Alegre de Sergipe
+3:Muribeca
+3:Neópolis
+3:Nossa Senhora Aparecida
+3:Nossa Senhora da Glória
+3:Nossa Senhora das Dores
+3:Nossa Senhora de Lourdes
+3:Nossa Senhora do Socorro
+3:Pacatuba
+3:Pedra Mole
+3:Pedrinhas
+3:Pinhão
+3:Pirambu
+3:Porto da Folha
+3:Poço Redondo
+3:Poço Verde
+3:Propriá
+3:Riachuelo
+3:Riachão do Dantas
+3:Ribeirópolis
+3:Rosário do Catete
+3:Salgado
+3:Santa Luzia do Itanhy
+3:Santa Rosa de Lima
+3:Santana do São Francisco
+3:Santo Amaro das Brotas
+3:Simão Dias
+3:Siriri
+3:São Cristóvão
+3:São Domingos
+3:São Francisco
+3:Telha
+3:Tobias Barreto
+3:Tomar do Geru
+3:Umbaúba
+1:Sudeste
+2:Espírito Santo
+3:Afonso Cláudio
+3:Alegre
+3:Alfredo Chaves
+3:Alto Rio Novo
+3:Anchieta
+3:Apiacá
+3:Aracruz
+3:Atílio Vivácqua
+3:Baixo Guandu
+3:Barra de São Francisco
+3:Boa Esperança
+3:Bom Jesus do Norte
+3:Brejetuba
+3:Cachoeiro de Itapemirim
+3:Cariacica
+3:Castelo
+3:Colatina
+3:Conceição da Barra
+3:Conceição do Castelo
+3:Divino de São Lourenço
+3:Domingos Martins
+3:Dores do Rio Preto
+3:Ecoporanga
+3:Fundão
+3:Governador Lindenberg
+3:Guarapari
+3:Guaçuí
+3:Ibatiba
+3:Ibiraçu
+3:Ibitirama
+3:Iconha
+3:Irupi
+3:Itaguaçu
+3:Itapemirim
+3:Itarana
+3:Iúna
+3:Jaguaré
+3:Jerônimo Monteiro
+3:João Neiva
+3:Laranja da Terra
+3:Linhares
+3:Mantenópolis
+3:Marataízes
+3:Marechal Floriano
+3:Marilândia
+3:Mimoso do Sul
+3:Montanha
+3:Mucurici
+3:Muniz Freire
+3:Muqui
+3:Nova Venécia
+3:Pancas
+3:Pedro Canário
+3:Pinheiros
+3:Ponto Belo
+3:Presidente Kennedy
+3:Rio Bananal
+3:Rio Novo do Sul
+3:Santa Leopoldina
+3:Santa Maria de Jetibá
+3:Santa Teresa
+3:Serra
+3:Sooretama
+3:São Domingos do Norte
+3:São Gabriel da Palha
+3:São José do Calçado
+3:São Mateus
+3:São Roque do Canaã
+3:Vargem Alta
+3:Venda Nova do Imigrante
+3:Viana
+3:Vila Pavão
+3:Vila Valério
+3:Vila Velha
+3:Vitória
+3:Água Doce do Norte
+3:Águia Branca
+2:Minas Gerais
+3:Abadia dos Dourados
+3:Abaeté
+3:Abre-Campo
+3:Acaiaca
+3:Aguanil
+3:Aimorés
+3:Aiuruoca
+3:Alagoa
+3:Albertina
+3:Alfenas
+3:Alfredo Vasconcelos
+3:Almenara
+3:Alpercata
+3:Alpinópolis
+3:Alterosa
+3:Alto Jequitibá
+3:Alto Rio Doce
+3:Alvarenga
+3:Alvinópolis
+3:Alvorada de Minas
+3:Além Paraíba
+3:Amparo da Serra
+3:Andradas
+3:Andrelândia
+3:Angelândia
+3:Antônio Carlos
+3:Antônio Dias
+3:Antônio Prado de Minas
+3:Aracitaba
+3:Araguari
+3:Arantina
+3:Araponga
+3:Araporã
+3:Arapuá
+3:Araxá
+3:Araçaí
+3:Araçuaí
+3:Araújos
+3:Arceburgo
+3:Arcos
+3:Areado
+3:Argirita
+3:Aricanduva
+3:Arinos
+3:Astolfo Dutra
+3:Ataleia
+3:Augusto de Lima
+3:Açucena
+3:Baependi
+3:Baldim
+3:Bambuí
+3:Bandeira
+3:Bandeira do Sul
+3:Barbacena
+3:Barra Longa
+3:Barroso
+3:Barão de Cocais
+3:Barão de Monte Alto
+3:Bela Vista de Minas
+3:Belmiro Braga
+3:Belo Horizonte
+3:Belo Oriente
+3:Belo Vale
+3:Berilo
+3:Berizal
+3:Bertópolis
+3:Betim
+3:Bias Fortes
+3:Bicas
+3:Biquinhas
+3:Boa Esperança
+3:Bocaina de Minas
+3:Bocaiuva
+3:Bom Despacho
+3:Bom Jardim de Minas
+3:Bom Jesus da Penha
+3:Bom Jesus do Amparo
+3:Bom Jesus do Galho
+3:Bom Repouso
+3:Bom Sucesso
+3:Bonfim
+3:Bonfinópolis de Minas
+3:Bonito de Minas
+3:Borda da Mata
+3:Botelhos
+3:Botumirim
+3:Brasilândia de Minas
+3:Brasília de Minas
+3:Brasópolis
+3:Braúnas
+3:Brumadinho
+3:Brás Pires
+3:Bueno Brandão
+3:Buenópolis
+3:Bugre
+3:Buritis
+3:Buritizeiro
+3:Cabeceira Grande
+3:Cabo Verde
+3:Cachoeira Dourada
+3:Cachoeira da Prata
+3:Cachoeira de Minas
+3:Cachoeira de Pajeú
+3:Caetanópolis
+3:Caeté
+3:Caiana
+3:Cajuri
+3:Caldas
+3:Camacho
+3:Camanducaia
+3:Cambuquira
+3:Cambuí
+3:Campanha
+3:Campanário
+3:Campestre
+3:Campina Verde
+3:Campo Azul
+3:Campo Belo
+3:Campo Florido
+3:Campo do Meio
+3:Campos Altos
+3:Campos Gerais
+3:Cana Verde
+3:Canaã
+3:Candeias
+3:Cantagalo
+3:Canápolis
+3:Caparaó
+3:Capela Nova
+3:Capelinha
+3:Capetinga
+3:Capim Branco
+3:Capinópolis
+3:Capitão Andrade
+3:Capitão Enéas
+3:Capitólio
+3:Caputira
+3:Caranaíba
+3:Carandaí
+3:Carangola
+3:Caratinga
+3:Caraí
+3:Carbonita
+3:Careaçu
+3:Carlos Chagas
+3:Carmo da Cachoeira
+3:Carmo da Mata
+3:Carmo de Minas
+3:Carmo do Cajuru
+3:Carmo do Paranaíba
+3:Carmo do Rio Claro
+3:Carmésia
+3:Carmópolis de Minas
+3:Carneirinho
+3:Carrancas
+3:Carvalhos
+3:Carvalhópolis
+3:Casa Grande
+3:Cascalho Rico
+3:Cataguases
+3:Catas Altas
+3:Catas Altas da Noruega
+3:Catuji
+3:Catuti
+3:Caxambu
+3:Cedro do Abaeté
+3:Central de Minas
+3:Centralina
+3:Chalé
+3:Chapada Gaúcha
+3:Chapada do Norte
+3:Chiador
+3:Chácara
+3:Cipotânea
+3:Claraval
+3:Claro dos Poções
+3:Cláudio
+3:Coimbra
+3:Coluna
+3:Comendador Gomes
+3:Comercinho
+3:Conceição da Aparecida
+3:Conceição da Barra de Minas
+3:Conceição das Alagoas
+3:Conceição das Pedras
+3:Conceição de Ipanema
+3:Conceição do Mato Dentro
+3:Conceição do Pará
+3:Conceição do Rio Verde
+3:Conceição dos Ouros
+3:Confins
+3:Congonhal
+3:Congonhas
+3:Congonhas do Norte
+3:Conquista
+3:Conselheiro Lafaiete
+3:Conselheiro Pena
+3:Consolação
+3:Contagem
+3:Coqueiral
+3:Coração de Jesus
+3:Cordisburgo
+3:Cordislândia
+3:Corinto
+3:Coroaci
+3:Coromandel
+3:Coronel Fabriciano
+3:Coronel Murta
+3:Coronel Pacheco
+3:Coronel Xavier Chaves
+3:Couto de Magalhães de Minas
+3:Cristiano Otoni
+3:Cristina
+3:Cristália
+3:Crisólita
+3:Crucilândia
+3:Cruzeiro da Fortaleza
+3:Cruzília
+3:Cuparaque
+3:Curral de Dentro
+3:Curvelo
+3:Cássia
+3:Córrego Danta
+3:Córrego Fundo
+3:Córrego Novo
+3:Córrego do Bom Jesus
+3:Cônego Marinho
+3:Datas
+3:Delfim Moreira
+3:Delfinópolis
+3:Delta
+3:Descoberto
+3:Desterro de Entre Rios
+3:Desterro do Melo
+3:Diamantina
+3:Diogo de Vasconcelos
+3:Dionísio
+3:Divino
+3:Divino das Laranjeiras
+3:Divinolândia de Minas
+3:Divinésia
+3:Divinópolis
+3:Divisa Alegre
+3:Divisa Nova
+3:Divisópolis
+3:Dom Bosco
+3:Dom Cavati
+3:Dom Joaquim
+3:Dom Silvério
+3:Dom Viçoso
+3:Dona Eusébia
+3:Dores de Campos
+3:Dores de Guanhães
+3:Dores do Indaiá
+3:Dores do Turvo
+3:Doresópolis
+3:Douradoquara
+3:Durandé
+3:Elói Mendes
+3:Engenheiro Caldas
+3:Engenheiro Navarro
+3:Entre Folhas
+3:Entre Rios de Minas
+3:Ervália
+3:Esmeraldas
+3:Espera Feliz
+3:Espinosa
+3:Espírito Santo do Dourado
+3:Estiva
+3:Estrela Dalva
+3:Estrela do Indaiá
+3:Estrela do Sul
+3:Eugenópolis
+3:Ewbank da Câmara
+3:Extrema
+3:Fama
+3:Faria Lemos
+3:Felisburgo
+3:Felixlândia
+3:Felício dos Santos
+3:Fernandes Tourinho
+3:Ferros
+3:Fervedouro
+3:Florestal
+3:Formiga
+3:Formoso
+3:Fortaleza de Minas
+3:Fortuna de Minas
+3:Francisco Badaró
+3:Francisco Dumont
+3:Francisco Sá
+3:Franciscópolis
+3:Frei Gaspar
+3:Frei Inocêncio
+3:Frei Lagonegro
+3:Fronteira
+3:Fronteira dos Vales
+3:Fruta de Leite
+3:Frutal
+3:Funilândia
+3:Galileia
+3:Gameleiras
+3:Glaucilândia
+3:Goiabeira
+3:Goianá
+3:Gonzaga
+3:Gonçalves
+3:Gouvêia
+3:Governador Valadares
+3:Grupiara
+3:Grão Mogol
+3:Guanhães
+3:Guapé
+3:Guaraciaba
+3:Guaraciama
+3:Guarani
+3:Guaranésia
+3:Guarará
+3:Guarda-Mor
+3:Guaxupé
+3:Guidoval
+3:Guimarânia
+3:Guiricema
+3:Gurinhatã
+3:Heliodora
+3:Iapu
+3:Ibertioga
+3:Ibiaí
+3:Ibiracatu
+3:Ibiraci
+3:Ibirité
+3:Ibitiúra de Minas
+3:Ibituruna
+3:Ibiá
+3:Icaraí de Minas
+3:Igarapé
+3:Igaratinga
+3:Iguatama
+3:Ijaci
+3:Ilicínea
+3:Imbé de Minas
+3:Inconfidentes
+3:Indaiabira
+3:Indianópolis
+3:Inhapim
+3:Inhaúma
+3:Inimutaba
+3:Ipaba
+3:Ipanema
+3:Ipatinga
+3:Ipiaçu
+3:Ipuiuna
+3:Iraí de Minas
+3:Itabira
+3:Itabirinha
+3:Itabirito
+3:Itacambira
+3:Itacarambi
+3:Itaguara
+3:Itaipé
+3:Itajubá
+3:Itamarandiba
+3:Itamarati de Minas
+3:Itambacuri
+3:Itambé do Mato Dentro
+3:Itamogi
+3:Itamonte
+3:Itanhandu
+3:Itanhomi
+3:Itaobim
+3:Itapagipe
+3:Itapecerica
+3:Itapeva
+3:Itatiaiuçu
+3:Itaverava
+3:Itaú de Minas
+3:Itaúna
+3:Itinga
+3:Itueta
+3:Ituiutaba
+3:Itumirim
+3:Iturama
+3:Itutinga
+3:Jaboticatubas
+3:Jacinto
+3:Jacutinga
+3:Jacuí
+3:Jaguaraçu
+3:Jampruca
+3:Janaúba
+3:Januária
+3:Japaraíba
+3:Japonvar
+3:Jaíba
+3:Jeceaba
+3:Jenipapo de Minas
+3:Jequeri
+3:Jequitaí
+3:Jequitibá
+3:Jequitinhonha
+3:Jesuânia
+3:Joanésia
+3:Joaquim Felício
+3:Joaíma
+3:Jordânia
+3:Josenópolis
+3:José Gonçalves de Minas
+3:José Raydan
+3:João Monlevade
+3:João Pinheiro
+3:Juatuba
+3:Juiz de Fora
+3:Juramento
+3:Juruaia
+3:Juvenília
+3:Ladainha
+3:Lagamar
+3:Lagoa Dourada
+3:Lagoa Formosa
+3:Lagoa Grande
+3:Lagoa Santa
+3:Lagoa da Prata
+3:Lagoa dos Patos
+3:Lajinha
+3:Lambari
+3:Lamim
+3:Laranjal
+3:Lassance
+3:Lavras
+3:Leandro Ferreira
+3:Leme do Prado
+3:Leopoldina
+3:Liberdade
+3:Lima Duarte
+3:Limeira do Oeste
+3:Lontra
+3:Luisburgo
+3:Luislândia
+3:Luminárias
+3:Luz
+3:Machacalis
+3:Machado
+3:Madre de Deus de Minas
+3:Malacacheta
+3:Mamonas
+3:Manga
+3:Manhuaçu
+3:Manhumirim
+3:Mantena
+3:Mar de Espanha
+3:Maravilhas
+3:Maria da Fé
+3:Mariana
+3:Marilac
+3:Maripá de Minas
+3:Marliéria
+3:Marmelópolis
+3:Martinho Campos
+3:Martins Soares
+3:Mata Verde
+3:Materlândia
+3:Mateus Leme
+3:Mathias Lobato
+3:Matias Barbosa
+3:Matias Cardoso
+3:Matipó
+3:Mato Verde
+3:Matozinhos
+3:Matutina
+3:Medeiros
+3:Medina
+3:Mendes Pimentel
+3:Mercês
+3:Mesquita
+3:Minas Novas
+3:Minduri
+3:Mirabela
+3:Miradouro
+3:Miraí
+3:Moeda
+3:Moema
+3:Monjolos
+3:Monsenhor Paulo
+3:Montalvânia
+3:Monte Alegre de Minas
+3:Monte Azul
+3:Monte Belo
+3:Monte Carmelo
+3:Monte Formoso
+3:Monte Santo de Minas
+3:Monte Sião
+3:Montes Claros
+3:Montezuma
+3:Morada Nova de Minas
+3:Morro da Garça
+3:Morro do Pilar
+3:Munhoz
+3:Muriaé
+3:Mutum
+3:Muzambinho
+3:Mário Campos
+3:Nanuque
+3:Naque
+3:Natalândia
+3:Natércia
+3:Nazareno
+3:Nepomuceno
+3:Ninheira
+3:Nova Era
+3:Nova Lima
+3:Nova Módica
+3:Nova Porteirinha
+3:Nova Resende
+3:Nova Serrana
+3:Nova União
+3:Novo Cruzeiro
+3:Novo Oriente de Minas
+3:Novorizonte
+3:Olaria
+3:Olhos-d'Água
+3:Oliveira
+3:Oliveira Fortes
+3:Olímpio Noronha
+3:Onça de Pitangui
+3:Oratórios
+3:Orizânia
+3:Ouro Branco
+3:Ouro Fino
+3:Ouro Preto
+3:Ouro Verde de Minas
+3:Padre Carvalho
+3:Padre Paraíso
+3:Pai Pedro
+3:Paineiras
+3:Pains
+3:Paiva
+3:Palma
+3:Palmópolis
+3:Papagaios
+3:Paracatu
+3:Paraguaçu
+3:Paraisópolis
+3:Paraopeba
+3:Pará de Minas
+3:Passa Tempo
+3:Passa-Quatro
+3:Passa-Vinte
+3:Passabém
+3:Passos
+3:Patis
+3:Patos de Minas
+3:Patrocínio
+3:Patrocínio do Muriaé
+3:Paula Cândido
+3:Paulistas
+3:Pavão
+3:Pedra Azul
+3:Pedra Bonita
+3:Pedra Dourada
+3:Pedra do Anta
+3:Pedra do Indaiá
+3:Pedralva
+3:Pedras de Maria da Cruz
+3:Pedrinópolis
+3:Pedro Leopoldo
+3:Pedro Teixeira
+3:Pequeri
+3:Pequi
+3:Perdigão
+3:Perdizes
+3:Perdões
+3:Periquito
+3:Pescador
+3:Peçanha
+3:Piau
+3:Piedade de Caratinga
+3:Piedade de Ponte Nova
+3:Piedade do Rio Grande
+3:Piedade dos Gerais
+3:Pimenta
+3:Pingo d'Água
+3:Pintópolis
+3:Piracema
+3:Pirajuba
+3:Piranga
+3:Piranguinho
+3:Piranguçu
+3:Pirapetinga
+3:Pirapora
+3:Piraúba
+3:Pitangui
+3:Piumhi
+3:Planura
+3:Pocrane
+3:Pompéu
+3:Ponte Nova
+3:Ponto Chique
+3:Ponto dos Volantes
+3:Porteirinha
+3:Porto Firme
+3:Poté
+3:Pouso Alegre
+3:Pouso Alto
+3:Poço Fundo
+3:Poços de Caldas
+3:Prados
+3:Prata
+3:Pratinha
+3:Pratápolis
+3:Presidente Bernardes
+3:Presidente Juscelino
+3:Presidente Kubitschek
+3:Presidente Olegário
+3:Prudente de Morais
+3:Quartel Geral
+3:Queluzito
+3:Raposos
+3:Raul Soares
+3:Recreio
+3:Reduto
+3:Resende Costa
+3:Resplendor
+3:Ressaquinha
+3:Riachinho
+3:Riacho dos Machados
+3:Ribeirão Vermelho
+3:Ribeirão das Neves
+3:Rio Acima
+3:Rio Casca
+3:Rio Doce
+3:Rio Espera
+3:Rio Manso
+3:Rio Novo
+3:Rio Paranaíba
+3:Rio Pardo de Minas
+3:Rio Piracicaba
+3:Rio Pomba
+3:Rio Preto
+3:Rio Vermelho
+3:Rio do Prado
+3:Ritápolis
+3:Rochedo de Minas
+3:Rodeiro
+3:Romaria
+3:Rosário da Limeira
+3:Rubelita
+3:Rubim
+3:Sabinópolis
+3:Sacramento
+3:Salinas
+3:Salto da Divisa
+3:Santa Bárbara
+3:Santa Bárbara do Leste
+3:Santa Bárbara do Monte Verde
+3:Santa Bárbara do Tugúrio
+3:Santa Cruz de Minas
+3:Santa Cruz de Salinas
+3:Santa Cruz do Escalvado
+3:Santa Efigênia de Minas
+3:Santa Fé de Minas
+3:Santa Helena de Minas
+3:Santa Juliana
+3:Santa Luzia
+3:Santa Margarida
+3:Santa Maria de Itabira
+3:Santa Maria do Salto
+3:Santa Maria do Suaçuí
+3:Santa Rita de Caldas
+3:Santa Rita de Ibitipoca
+3:Santa Rita de Jacutinga
+3:Santa Rita de Minas
+3:Santa Rita do Itueto
+3:Santa Rita do Sapucaí
+3:Santa Rosa da Serra
+3:Santa Vitória
+3:Santana da Vargem
+3:Santana de Cataguases
+3:Santana de Pirapama
+3:Santana do Deserto
+3:Santana do Garambéu
+3:Santana do Jacaré
+3:Santana do Manhuaçu
+3:Santana do Paraíso
+3:Santana do Riacho
+3:Santana dos Montes
+3:Santo Antônio do Amparo
+3:Santo Antônio do Aventureiro
+3:Santo Antônio do Grama
+3:Santo Antônio do Itambé
+3:Santo Antônio do Jacinto
+3:Santo Antônio do Monte
+3:Santo Antônio do Retiro
+3:Santo Hipólito
+3:Santos Dumont
+3:Sapucaí-Mirim
+3:Sardoá
+3:Sarzedo
+3:Sem-Peixe
+3:Senador Amaral
+3:Senador Cortes
+3:Senador Firmino
+3:Senador José Bento
+3:Senador Modestino Gonçalves
+3:Senhora de Oliveira
+3:Senhora do Porto
+3:Senhora dos Remédios
+3:Sericita
+3:Seritinga
+3:Serra Azul de Minas
+3:Serra da Saudade
+3:Serra do Salitre
+3:Serra dos Aimorés
+3:Serrania
+3:Serranos
+3:Serranópolis de Minas
+3:Serro
+3:Sete Lagoas
+3:Setubinha
+3:Silveirânia
+3:Silvianópolis
+3:Simonésia
+3:Simão Pereira
+3:Sobrália
+3:Soledade de Minas
+3:São Bento Abade
+3:São Brás do Suaçuí
+3:São Domingos das Dores
+3:São Domingos do Prata
+3:São Francisco
+3:São Francisco de Paula
+3:São Francisco de Sales
+3:São Francisco do Glória
+3:São Félix de Minas
+3:São Geraldo
+3:São Geraldo da Piedade
+3:São Geraldo do Baixio
+3:São Gonçalo do Abaeté
+3:São Gonçalo do Pará
+3:São Gonçalo do Rio Abaixo
+3:São Gonçalo do Rio Preto
+3:São Gonçalo do Sapucaí
+3:São Gotardo
+3:São Joaquim de Bicas
+3:São José da Barra
+3:São José da Lapa
+3:São José da Safira
+3:São José da Varginha
+3:São José do Alegre
+3:São José do Divino
+3:São José do Goiabal
+3:São José do Jacuri
+3:São José do Mantimento
+3:São João Batista do Glória
+3:São João Evangelista
+3:São João Nepomuceno
+3:São João da Lagoa
+3:São João da Mata
+3:São João da Ponte
+3:São João das Missões
+3:São João del-Rei
+3:São João do Manhuaçu
+3:São João do Manteninha
+3:São João do Oriente
+3:São João do Pacuí
+3:São João do Paraíso
+3:São Lourenço
+3:São Miguel do Anta
+3:São Pedro da União
+3:São Pedro do Suaçuí
+3:São Pedro dos Ferros
+3:São Romão
+3:São Roque de Minas
+3:São Sebastião da Bela Vista
+3:São Sebastião da Vargem Alegre
+3:São Sebastião do Anta
+3:São Sebastião do Maranhão
+3:São Sebastião do Oeste
+3:São Sebastião do Paraíso
+3:São Sebastião do Rio Preto
+3:São Sebastião do Rio Verde
+3:São Thomé das Letras
+3:São Tiago
+3:São Tomás de Aquino
+3:São Vicente de Minas
+3:Tabuleiro
+3:Taiobeiras
+3:Taparuba
+3:Tapira
+3:Tapiraí
+3:Taquaraçu de Minas
+3:Tarumirim
+3:Teixeiras
+3:Teófilo Otoni
+3:Timóteo
+3:Tiradentes
+3:Tiros
+3:Tocantins
+3:Tocos do Moji
+3:Toledo
+3:Tombos
+3:Três Corações
+3:Três Marias
+3:Três Pontas
+3:Tumiritinga
+3:Tupaciguara
+3:Turmalina
+3:Turvolândia
+3:Ubaporanga
+3:Ubaí
+3:Uberaba
+3:Uberlândia
+3:Ubá
+3:Umburatiba
+3:Unaí
+3:União de Minas
+3:Uruana de Minas
+3:Urucuia
+3:Urucânia
+3:Vargem Alegre
+3:Vargem Bonita
+3:Vargem Grande do Rio Pardo
+3:Varginha
+3:Varjão de Minas
+3:Varzelândia
+3:Vazante
+3:Verdelândia
+3:Veredinha
+3:Vermelho Novo
+3:Veríssimo
+3:Vespasiano
+3:Vieiras
+3:Virgem da Lapa
+3:Virginópolis
+3:Virgolândia
+3:Virgínia
+3:Visconde do Rio Branco
+3:Viçosa
+3:Volta Grande
+3:Várzea da Palma
+3:Wenceslau Braz
+3:Água Boa
+3:Água Comprida
+3:Águas Formosas
+3:Águas Vermelhas
+2:Rio de Janeiro
+3:Angra dos Reis
+3:Aperibé
+3:Araruama
+3:Areal
+3:Armação dos Búzios
+3:Arraial do Cabo
+3:Barra Mansa
+3:Barra do Piraí
+3:Belford Roxo
+3:Bom Jardim
+3:Bom Jesus do Itabapoana
+3:Cabo Frio
+3:Cachoeiras de Macacu
+3:Cambuci
+3:Campos dos Goytacazes
+3:Cantagalo
+3:Carapebus
+3:Cardoso Moreira
+3:Carmo
+3:Casimiro de Abreu
+3:Comendador Levy Gasparian
+3:Conceição de Macabu
+3:Cordeiro
+3:Duas Barras
+3:Duque de Caxias
+3:Engenheiro Paulo de Frontin
+3:Guapimirim
+3:Iguaba Grande
+3:Itaboraí
+3:Itaguaí
+3:Italva
+3:Itaocara
+3:Itaperuna
+3:Itatiaia
+3:Japeri
+3:Laje do Muriaé
+3:Macuco
+3:Magé
+3:Mangaratiba
+3:Maricá
+3:Mendes
+3:Mesquita
+3:Miguel Pereira
+3:Miracema
+3:Natividade
+3:Nilópolis
+3:Niterói
+3:Nova Friburgo
+3:Nova Iguaçu
+3:Paracambi
+3:Paraty
+3:Paraíba do Sul
+3:Paty do Alferes
+3:Petrópolis
+3:Pinheiral
+3:Piraí
+3:Porciúncula
+3:Porto Real
+3:Quatis
+3:Queimados
+3:Quissamã
+3:Resende
+3:Rio Bonito
+3:Rio Claro
+3:Rio das Flores
+3:Rio das Ostras
+3:Rio de Janeiro
+3:Santa Maria Madalena
+3:Santo Antônio de Pádua
+3:Sapucaia
+3:Saquarema
+3:Seropédica
+3:Silva Jardim
+3:Sumidouro
+3:São Fidélis
+3:São Francisco de Itabapoana
+3:São Gonçalo
+3:São José de Ubá
+3:São José do Vale do Rio Preto
+3:São João da Barra
+3:São João de Meriti
+3:São Pedro da Aldeia
+3:São Sebastião do Alto
+3:Tanguá
+3:Teresópolis
+3:Trajano de Moraes
+3:Três Rios
+3:Valença
+3:Varre-Sai
+3:Volta Redonda
+2:São Paulo
+3:Adamantina
+3:Adolfo
+3:Aguaí
+3:Agudos
+3:Alambari
+3:Alfredo Marcondes
+3:Altair
+3:Altinópolis
+3:Alto Alegre
+3:Alumínio
+3:Alvinlândia
+3:Americana
+3:Amparo
+3:Américo Brasiliense
+3:Américo de Campos
+3:Analândia
+3:Andradina
+3:Angatuba
+3:Anhembi
+3:Anhumas
+3:Aparecida
+3:Aparecida d'Oeste
+3:Apiaí
+3:Aramina
+3:Arandu
+3:Arapeí
+3:Araraquara
+3:Araras
+3:Araçatuba
+3:Araçoiaba da Serra
+3:Arco-Íris
+3:Arealva
+3:Areias
+3:Areiópolis
+3:Ariranha
+3:Artur Nogueira
+3:Arujá
+3:Aspásia
+3:Assis
+3:Atibaia
+3:Auriflama
+3:Avanhandava
+3:Avaré
+3:Avaí
+3:Bady Bassitt
+3:Balbinos
+3:Bananal
+3:Barbosa
+3:Bariri
+3:Barra Bonita
+3:Barra do Chapéu
+3:Barra do Turvo
+3:Barretos
+3:Barrinha
+3:Barueri
+3:Barão de Antonina
+3:Bastos
+3:Batatais
+3:Bauru
+3:Bebedouro
+3:Bento de Abreu
+3:Bernardino de Campos
+3:Bertioga
+3:Bilac
+3:Birigui
+3:Biritiba Mirim
+3:Boa Esperança do Sul
+3:Bocaina
+3:Bofete
+3:Boituva
+3:Bom Jesus dos Perdões
+3:Bom Sucesso de Itararé
+3:Boraceia
+3:Borborema
+3:Borebi
+3:Borá
+3:Botucatu
+3:Bragança Paulista
+3:Braúna
+3:Brejo Alegre
+3:Brodowski
+3:Brotas
+3:Buri
+3:Buritama
+3:Buritizal
+3:Bálsamo
+3:Cabreúva
+3:Cabrália Paulista
+3:Cachoeira Paulista
+3:Caconde
+3:Cafelândia
+3:Caiabu
+3:Caieiras
+3:Caiuá
+3:Cajamar
+3:Cajati
+3:Cajobi
+3:Cajuru
+3:Campina do Monte Alegre
+3:Campinas
+3:Campo Limpo Paulista
+3:Campos Novos Paulista
+3:Campos do Jordão
+3:Cananeia
+3:Canas
+3:Canitar
+3:Capela do Alto
+3:Capivari
+3:Capão Bonito
+3:Caraguatatuba
+3:Carapicuíba
+3:Cardoso
+3:Casa Branca
+3:Castilho
+3:Catanduva
+3:Catiguá
+3:Caçapava
+3:Cedral
+3:Cerqueira César
+3:Cerquilho
+3:Cesário Lange
+3:Charqueada
+3:Chavantes
+3:Clementina
+3:Colina
+3:Colômbia
+3:Conchal
+3:Conchas
+3:Cordeirópolis
+3:Coroados
+3:Coronel Macedo
+3:Corumbataí
+3:Cosmorama
+3:Cosmópolis
+3:Cotia
+3:Cravinhos
+3:Cristais Paulista
+3:Cruzeiro
+3:Cruzália
+3:Cubatão
+3:Cunha
+3:Cássia dos Coqueiros
+3:Cândido Mota
+3:Cândido Rodrigues
+3:Descalvado
+3:Diadema
+3:Dirce Reis
+3:Divinolândia
+3:Dobrada
+3:Dois Córregos
+3:Dolcinópolis
+3:Dourado
+3:Dracena
+3:Duartina
+3:Dumont
+3:Eldorado
+3:Elias Fausto
+3:Elisiário
+3:Embaúba
+3:Embu das Artes
+3:Embu-Guaçu
+3:Emilianópolis
+3:Engenheiro Coelho
+3:Espírito Santo do Pinhal
+3:Espírito Santo do Turvo
+3:Estiva Gerbi
+3:Estrela d'Oeste
+3:Estrela do Norte
+3:Euclides da Cunha Paulista
+3:Fartura
+3:Fernando Prestes
+3:Fernandópolis
+3:Fernão
+3:Ferraz de Vasconcelos
+3:Flora Rica
+3:Floreal
+3:Florínea
+3:Flórida Paulista
+3:Franca
+3:Francisco Morato
+3:Franco da Rocha
+3:Garça
+3:Gastão Vidigal
+3:Gavião Peixoto
+3:General Salgado
+3:Getulina
+3:Glicério
+3:Guaimbê
+3:Guaiçara
+3:Guapiara
+3:Guaraci
+3:Guarani d'Oeste
+3:Guarantã
+3:Guararapes
+3:Guararema
+3:Guaratinguetá
+3:Guaraçaí
+3:Guareí
+3:Guariba
+3:Guarujá
+3:Guarulhos
+3:Guará
+3:Guatapará
+3:Guaíra
+3:Guzolândia
+3:Gália
+3:Herculândia
+3:Holambra
+3:Iacri
+3:Iaras
+3:Ibaté
+3:Ibirarema
+3:Ibirá
+3:Ibitinga
+3:Ibiúna
+3:Icém
+3:Iepê
+3:Igarapava
+3:Igaratá
+3:Igaraçu do Tietê
+3:Iguape
+3:Ilha Comprida
+3:Ilha Solteira
+3:Ilhabela
+3:Indaiatuba
+3:Indiana
+3:Indiaporã
+3:Inúbia Paulista
+3:Ipaussu
+3:Iperó
+3:Ipeúna
+3:Ipiguá
+3:Iporanga
+3:Ipuã
+3:Iracemápolis
+3:Irapuru
+3:Irapuã
+3:Itaberá
+3:Itajobi
+3:Itaju
+3:Itanhaém
+3:Itapecerica da Serra
+3:Itapetininga
+3:Itapeva
+3:Itapevi
+3:Itapira
+3:Itapirapuã Paulista
+3:Itaporanga
+3:Itapura
+3:Itapuí
+3:Itaquaquecetuba
+3:Itararé
+3:Itariri
+3:Itatiba
+3:Itatinga
+3:Itaí
+3:Itaóca
+3:Itirapina
+3:Itirapuã
+3:Itobi
+3:Itu
+3:Itupeva
+3:Ituverava
+3:Itápolis
+3:Jaborandi
+3:Jaboticabal
+3:Jacareí
+3:Jaci
+3:Jacupiranga
+3:Jaguariúna
+3:Jales
+3:Jambeiro
+3:Jandira
+3:Jardinópolis
+3:Jarinu
+3:Jaú
+3:Jeriquara
+3:Joanópolis
+3:José Bonifácio
+3:João Ramalho
+3:Jumirim
+3:Jundiaí
+3:Junqueirópolis
+3:Juquitiba
+3:Juquiá
+3:Júlio Mesquita
+3:Lagoinha
+3:Laranjal Paulista
+3:Lavrinhas
+3:Lavínia
+3:Leme
+3:Lençóis Paulista
+3:Lindóia
+3:Lins
+3:Lorena
+3:Lourdes
+3:Louveira
+3:Lucianópolis
+3:Lucélia
+3:Luisiânia
+3:Lupércio
+3:Lutécia
+3:Luís Antônio
+3:Macatuba
+3:Macaubal
+3:Macedônia
+3:Magda
+3:Mairinque
+3:Mairiporã
+3:Manduri
+3:Marabá Paulista
+3:Maracaí
+3:Marapoama
+3:Marinópolis
+3:Mariápolis
+3:Martinópolis
+3:Matão
+3:Mauá
+3:Mendonça
+3:Meridiano
+3:Mesópolis
+3:Miguelópolis
+3:Mineiros do Tietê
+3:Mira Estrela
+3:Miracatu
+3:Mirandópolis
+3:Mirante do Paranapanema
+3:Mirassol
+3:Mirassolândia
+3:Mococa
+3:Mogi Guaçu
+3:Mogi Mirim
+3:Mogi das Cruzes
+3:Mombuca
+3:Mongaguá
+3:Monte Alegre do Sul
+3:Monte Alto
+3:Monte Aprazível
+3:Monte Azul Paulista
+3:Monte Castelo
+3:Monte Mor
+3:Monteiro Lobato
+3:Monções
+3:Morro Agudo
+3:Morungaba
+3:Motuca
+3:Murutinga do Sul
+3:Nantes
+3:Narandiba
+3:Natividade da Serra
+3:Nazaré Paulista
+3:Neves Paulista
+3:Nhandeara
+3:Nipoã
+3:Nova Aliança
+3:Nova Campina
+3:Nova Canaã Paulista
+3:Nova Castilho
+3:Nova Europa
+3:Nova Granada
+3:Nova Guataporanga
+3:Nova Independência
+3:Nova Luzitânia
+3:Nova Odessa
+3:Novais
+3:Novo Horizonte
+3:Nuporanga
+3:Ocauçu
+3:Olímpia
+3:Onda Verde
+3:Oriente
+3:Orindiúva
+3:Orlândia
+3:Osasco
+3:Oscar Bressane
+3:Osvaldo Cruz
+3:Ourinhos
+3:Ouro Verde
+3:Ouroeste
+3:Palestina
+3:Palmares Paulista
+3:Palmeira d'Oeste
+3:Palmital
+3:Panorama
+3:Paraguaçu Paulista
+3:Paraibuna
+3:Paranapanema
+3:Paranapuã
+3:Parapuã
+3:Paraíso
+3:Pardinho
+3:Pariquera-Açu
+3:Parisi
+3:Patrocínio Paulista
+3:Pauliceia
+3:Paulistânia
+3:Paulo de Faria
+3:Paulínia
+3:Pederneiras
+3:Pedra Bela
+3:Pedranópolis
+3:Pedregulho
+3:Pedreira
+3:Pedrinhas Paulista
+3:Pedro de Toledo
+3:Penápolis
+3:Pereira Barreto
+3:Pereiras
+3:Peruíbe
+3:Piacatu
+3:Piedade
+3:Pilar do Sul
+3:Pindamonhangaba
+3:Pindorama
+3:Pinhalzinho
+3:Piquerobi
+3:Piquete
+3:Piracaia
+3:Piracicaba
+3:Piraju
+3:Pirajuí
+3:Pirangi
+3:Pirapora do Bom Jesus
+3:Pirapozinho
+3:Pirassununga
+3:Piratininga
+3:Pitangueiras
+3:Planalto
+3:Platina
+3:Poloni
+3:Pompeia
+3:Pongaí
+3:Pontal
+3:Pontalinda
+3:Pontes Gestal
+3:Populina
+3:Porangaba
+3:Porto Feliz
+3:Porto Ferreira
+3:Potim
+3:Potirendaba
+3:Poá
+3:Pracinha
+3:Pradópolis
+3:Praia Grande
+3:Pratânia
+3:Presidente Alves
+3:Presidente Bernardes
+3:Presidente Epitácio
+3:Presidente Prudente
+3:Presidente Venceslau
+3:Promissão
+3:Quatá
+3:Queiroz
+3:Queluz
+3:Quintana
+3:Rafard
+3:Rancharia
+3:Redenção da Serra
+3:Regente Feijó
+3:Reginópolis
+3:Registro
+3:Restinga
+3:Ribeira
+3:Ribeirão Bonito
+3:Ribeirão Branco
+3:Ribeirão Corrente
+3:Ribeirão Grande
+3:Ribeirão Pires
+3:Ribeirão Preto
+3:Ribeirão do Sul
+3:Ribeirão dos Índios
+3:Rifaina
+3:Rincão
+3:Rinópolis
+3:Rio Claro
+3:Rio Grande da Serra
+3:Rio das Pedras
+3:Riolândia
+3:Riversul
+3:Rosana
+3:Roseira
+3:Rubineia
+3:Rubiácea
+3:Sabino
+3:Sagres
+3:Sales
+3:Sales Oliveira
+3:Salesópolis
+3:Salmourão
+3:Saltinho
+3:Salto
+3:Salto Grande
+3:Salto de Pirapora
+3:Sandovalina
+3:Santa Adélia
+3:Santa Albertina
+3:Santa Branca
+3:Santa Bárbara d'Oeste
+3:Santa Clara d'Oeste
+3:Santa Cruz da Conceição
+3:Santa Cruz da Esperança
+3:Santa Cruz das Palmeiras
+3:Santa Cruz do Rio Pardo
+3:Santa Ernestina
+3:Santa Fé do Sul
+3:Santa Gertrudes
+3:Santa Isabel
+3:Santa Lúcia
+3:Santa Maria da Serra
+3:Santa Mercedes
+3:Santa Rita d'Oeste
+3:Santa Rita do Passa Quatro
+3:Santa Rosa de Viterbo
+3:Santa Salete
+3:Santana da Ponte Pensa
+3:Santana de Parnaíba
+3:Santo Anastácio
+3:Santo André
+3:Santo Antônio da Alegria
+3:Santo Antônio de Posse
+3:Santo Antônio do Aracanguá
+3:Santo Antônio do Jardim
+3:Santo Antônio do Pinhal
+3:Santo Expedito
+3:Santos
+3:Santópolis do Aguapeí
+3:Sarapuí
+3:Sarutaiá
+3:Sebastianópolis do Sul
+3:Serra Azul
+3:Serra Negra
+3:Serrana
+3:Sertãozinho
+3:Sete Barras
+3:Severínia
+3:Silveiras
+3:Socorro
+3:Sorocaba
+3:Sud Mennucci
+3:Sumaré
+3:Suzano
+3:Suzanápolis
+3:São Bento do Sapucaí
+3:São Bernardo do Campo
+3:São Caetano do Sul
+3:São Carlos
+3:São Francisco
+3:São Joaquim da Barra
+3:São José da Bela Vista
+3:São José do Barreiro
+3:São José do Rio Pardo
+3:São José do Rio Preto
+3:São José dos Campos
+3:São João da Boa Vista
+3:São João das Duas Pontes
+3:São João de Iracema
+3:São João do Pau-d'Alho
+3:São Lourenço da Serra
+3:São Luiz do Paraitinga
+3:São Manuel
+3:São Miguel Arcanjo
+3:São Paulo
+3:São Pedro
+3:São Pedro do Turvo
+3:São Roque
+3:São Sebastião
+3:São Sebastião da Grama
+3:São Simão
+3:São Vicente
+3:Tabapuã
+3:Tabatinga
+3:Taboão da Serra
+3:Taciba
+3:Taguaí
+3:Taiaçu
+3:Taiuva
+3:Tambaú
+3:Tanabi
+3:Tapiratiba
+3:Tapiraí
+3:Taquaral
+3:Taquaritinga
+3:Taquarituba
+3:Taquarivaí
+3:Tarabai
+3:Tarumã
+3:Tatuí
+3:Taubaté
+3:Tejupá
+3:Teodoro Sampaio
+3:Terra Roxa
+3:Tietê
+3:Timburi
+3:Torre de Pedra
+3:Torrinha
+3:Trabiju
+3:Tremembé
+3:Três Fronteiras
+3:Tuiuti
+3:Tupi Paulista
+3:Tupã
+3:Turiúba
+3:Turmalina
+3:Ubarana
+3:Ubatuba
+3:Ubirajara
+3:Uchoa
+3:União Paulista
+3:Uru
+3:Urupês
+3:Urânia
+3:Valentim Gentil
+3:Valinhos
+3:Valparaíso
+3:Vargem
+3:Vargem Grande Paulista
+3:Vargem Grande do Sul
+3:Vera Cruz
+3:Vinhedo
+3:Viradouro
+3:Vista Alegre do Alto
+3:Vitória Brasil
+3:Votorantim
+3:Votuporanga
+3:Várzea Paulista
+3:Zacarias
+3:Águas da Prata
+3:Águas de Lindóia
+3:Águas de Santa Bárbara
+3:Águas de São Pedro
+3:Álvares Florence
+3:Álvares Machado
+3:Álvaro de Carvalho
+3:Óleo
+1:Sul
+2:Paraná
+3:Abatiá
+3:Adrianópolis
+3:Agudos do Sul
+3:Almirante Tamandaré
+3:Altamira do Paraná
+3:Alto Paraná
+3:Alto Paraíso
+3:Alto Piquiri
+3:Altônia
+3:Alvorada do Sul
+3:Amaporã
+3:Ampére
+3:Anahy
+3:Andirá
+3:Antonina
+3:Antônio Olinto
+3:Apucarana
+3:Arapongas
+3:Arapoti
+3:Arapuã
+3:Araruna
+3:Araucária
+3:Ariranha do Ivaí
+3:Assaí
+3:Assis Chateaubriand
+3:Astorga
+3:Atalaia
+3:Balsa Nova
+3:Bandeirantes
+3:Barbosa Ferraz
+3:Barra do Jacaré
+3:Barracão
+3:Bela Vista da Caroba
+3:Bela Vista do Paraíso
+3:Bituruna
+3:Boa Esperança
+3:Boa Esperança do Iguaçu
+3:Boa Ventura de São Roque
+3:Boa Vista da Aparecida
+3:Bocaiuva do Sul
+3:Bom Sucesso
+3:Bom Sucesso do Sul
+3:Borrazópolis
+3:Braganey
+3:Brasilândia do Sul
+3:Cafeara
+3:Cafelândia
+3:Cafezal do Sul
+3:Califórnia
+3:Cambará
+3:Cambira
+3:Cambé
+3:Campina Grande do Sul
+3:Campina da Lagoa
+3:Campina do Simão
+3:Campo Bonito
+3:Campo Largo
+3:Campo Magro
+3:Campo Mourão
+3:Campo do Tenente
+3:Candói
+3:Cantagalo
+3:Capanema
+3:Capitão Leônidas Marques
+3:Carambeí
+3:Carlópolis
+3:Cascavel
+3:Castro
+3:Catanduvas
+3:Centenário do Sul
+3:Cerro Azul
+3:Chopinzinho
+3:Cianorte
+3:Cidade Gaúcha
+3:Clevelândia
+3:Colombo
+3:Colorado
+3:Congonhinhas
+3:Conselheiro Mairinck
+3:Contenda
+3:Corbélia
+3:Cornélio Procópio
+3:Coronel Domingos Soares
+3:Coronel Vivida
+3:Corumbataí do Sul
+3:Cruz Machado
+3:Cruzeiro do Iguaçu
+3:Cruzeiro do Oeste
+3:Cruzeiro do Sul
+3:Cruzmaltina
+3:Curitiba
+3:Curiúva
+3:Cândido de Abreu
+3:Céu Azul
+3:Diamante d'Oeste
+3:Diamante do Norte
+3:Diamante do Sul
+3:Dois Vizinhos
+3:Douradina
+3:Doutor Camargo
+3:Doutor Ulysses
+3:Engenheiro Beltrão
+3:Entre Rios do Oeste
+3:Enéas Marques
+3:Esperança Nova
+3:Espigão Alto do Iguaçu
+3:Farol
+3:Faxinal
+3:Fazenda Rio Grande
+3:Fernandes Pinheiro
+3:Figueira
+3:Flor da Serra do Sul
+3:Floraí
+3:Floresta
+3:Florestópolis
+3:Flórida
+3:Formosa do Oeste
+3:Foz do Iguaçu
+3:Foz do Jordão
+3:Francisco Alves
+3:Francisco Beltrão
+3:Fênix
+3:General Carneiro
+3:Godoy Moreira
+3:Goioerê
+3:Goioxim
+3:Grandes Rios
+3:Guairaçá
+3:Guamiranga
+3:Guapirama
+3:Guaporema
+3:Guaraci
+3:Guaraniaçu
+3:Guarapuava
+3:Guaraqueçaba
+3:Guaratuba
+3:Guaíra
+3:Honório Serpa
+3:Ibaiti
+3:Ibema
+3:Ibiporã
+3:Icaraíma
+3:Iguaraçu
+3:Iguatu
+3:Imbaú
+3:Imbituva
+3:Inajá
+3:Indianópolis
+3:Inácio Martins
+3:Ipiranga
+3:Iporã
+3:Iracema do Oeste
+3:Irati
+3:Iretama
+3:Itaguajé
+3:Itaipulândia
+3:Itambaracá
+3:Itambé
+3:Itapejara d'Oeste
+3:Itaperuçu
+3:Itaúna do Sul
+3:Ivaiporã
+3:Ivatuba
+3:Ivaté
+3:Ivaí
+3:Jaboti
+3:Jacarezinho
+3:Jaguapitã
+3:Jaguariaíva
+3:Jandaia do Sul
+3:Janiópolis
+3:Japira
+3:Japurá
+3:Jardim Alegre
+3:Jardim Olinda
+3:Jataizinho
+3:Jesuítas
+3:Joaquim Távora
+3:Jundiaí do Sul
+3:Juranda
+3:Jussara
+3:Lapa
+3:Laranjal
+3:Laranjeiras do Sul
+3:Leópolis
+3:Lidianópolis
+3:Lindoeste
+3:Loanda
+3:Lobato
+3:Londrina
+3:Luisiana
+3:Lunardelli
+3:Lupionópolis
+3:Mallet
+3:Mamborê
+3:Mandaguari
+3:Mandaguaçu
+3:Mandirituba
+3:Manfrinópolis
+3:Mangueirinha
+3:Manoel Ribas
+3:Marechal Cândido Rondon
+3:Maria Helena
+3:Marialva
+3:Marilena
+3:Mariluz
+3:Marilândia do Sul
+3:Maringá
+3:Maripá
+3:Mariópolis
+3:Marmeleiro
+3:Marquinho
+3:Marumbi
+3:Matelândia
+3:Matinhos
+3:Mato Rico
+3:Mauá da Serra
+3:Medianeira
+3:Mercedes
+3:Mirador
+3:Miraselva
+3:Missal
+3:Moreira Sales
+3:Morretes
+3:Munhoz de Melo
+3:Nossa Senhora das Graças
+3:Nova Aliança do Ivaí
+3:Nova América da Colina
+3:Nova Aurora
+3:Nova Cantu
+3:Nova Esperança
+3:Nova Esperança do Sudoeste
+3:Nova Fátima
+3:Nova Laranjeiras
+3:Nova Londrina
+3:Nova Olímpia
+3:Nova Prata do Iguaçu
+3:Nova Santa Bárbara
+3:Nova Santa Rosa
+3:Nova Tebas
+3:Novo Itacolomi
+3:Ortigueira
+3:Ourizona
+3:Ouro Verde do Oeste
+3:Paiçandu
+3:Palmas
+3:Palmeira
+3:Palmital
+3:Palotina
+3:Paranacity
+3:Paranaguá
+3:Paranapoema
+3:Paranavaí
+3:Paraíso do Norte
+3:Pato Bragado
+3:Pato Branco
+3:Paula Freitas
+3:Paulo Frontin
+3:Perobal
+3:Pinhais
+3:Pinhal de São Bento
+3:Pinhalão
+3:Pinhão
+3:Piraquara
+3:Piraí do Sul
+3:Pitanga
+3:Pitangueiras
+3:Piên
+3:Planaltina do Paraná
+3:Planalto
+3:Ponta Grossa
+3:Pontal do Paraná
+3:Porecatu
+3:Porto Amazonas
+3:Porto Barreiro
+3:Porto Rico
+3:Porto Vitória
+3:Prado Ferreira
+3:Pranchita
+3:Presidente Castelo Branco
+3:Primeiro de Maio
+3:Prudentópolis
+3:Pérola
+3:Pérola d'Oeste
+3:Quarto Centenário
+3:Quatiguá
+3:Quatro Barras
+3:Quatro Pontes
+3:Quedas do Iguaçu
+3:Querência do Norte
+3:Quinta do Sol
+3:Quitandinha
+3:Ramilândia
+3:Rancho Alegre
+3:Rancho Alegre d'Oeste
+3:Realeza
+3:Rebouças
+3:Renascença
+3:Reserva
+3:Reserva do Iguaçu
+3:Ribeirão Claro
+3:Ribeirão do Pinhal
+3:Rio Azul
+3:Rio Bom
+3:Rio Bonito do Iguaçu
+3:Rio Branco do Ivaí
+3:Rio Branco do Sul
+3:Rio Negro
+3:Rolândia
+3:Roncador
+3:Rondon
+3:Rosário do Ivaí
+3:Sabáudia
+3:Salgado Filho
+3:Salto do Itararé
+3:Salto do Lontra
+3:Santa Amélia
+3:Santa Cecília do Pavão
+3:Santa Cruz de Monte Castelo
+3:Santa Fé
+3:Santa Helena
+3:Santa Inês
+3:Santa Isabel do Ivaí
+3:Santa Izabel do Oeste
+3:Santa Lúcia
+3:Santa Maria do Oeste
+3:Santa Mariana
+3:Santa Mônica
+3:Santa Tereza do Oeste
+3:Santa Terezinha de Itaipu
+3:Santana do Itararé
+3:Santo Antônio da Platina
+3:Santo Antônio do Caiuá
+3:Santo Antônio do Paraíso
+3:Santo Antônio do Sudoeste
+3:Santo Inácio
+3:Sapopema
+3:Sarandi
+3:Saudade do Iguaçu
+3:Sengés
+3:Serranópolis do Iguaçu
+3:Sertaneja
+3:Sertanópolis
+3:Siqueira Campos
+3:Sulina
+3:São Carlos do Ivaí
+3:São Jerônimo da Serra
+3:São Jorge d'Oeste
+3:São Jorge do Ivaí
+3:São Jorge do Patrocínio
+3:São José da Boa Vista
+3:São José das Palmeiras
+3:São José dos Pinhais
+3:São João
+3:São João do Caiuá
+3:São João do Ivaí
+3:São João do Triunfo
+3:São Manoel do Paraná
+3:São Mateus do Sul
+3:São Miguel do Iguaçu
+3:São Pedro do Iguaçu
+3:São Pedro do Ivaí
+3:São Pedro do Paraná
+3:São Sebastião da Amoreira
+3:São Tomé
+3:Tamarana
+3:Tamboara
+3:Tapejara
+3:Tapira
+3:Teixeira Soares
+3:Telêmaco Borba
+3:Terra Boa
+3:Terra Rica
+3:Terra Roxa
+3:Tibagi
+3:Tijucas do Sul
+3:Toledo
+3:Tomazina
+3:Três Barras do Paraná
+3:Tunas do Paraná
+3:Tuneiras do Oeste
+3:Tupãssi
+3:Turvo
+3:Ubiratã
+3:Umuarama
+3:Uniflor
+3:União da Vitória
+3:Uraí
+3:Ventania
+3:Vera Cruz do Oeste
+3:Verê
+3:Virmond
+3:Vitorino
+3:Wenceslau Braz
+3:Xambrê
+3:Ângulo
+2:Rio Grande do Sul
+3:Aceguá
+3:Agudo
+3:Ajuricaba
+3:Alecrim
+3:Alegrete
+3:Alegria
+3:Almirante Tamandaré do Sul
+3:Alpestre
+3:Alto Alegre
+3:Alto Feliz
+3:Alvorada
+3:Amaral Ferrador
+3:Ametista do Sul
+3:André da Rocha
+3:Anta Gorda
+3:Antônio Prado
+3:Arambaré
+3:Araricá
+3:Aratiba
+3:Arroio Grande
+3:Arroio do Meio
+3:Arroio do Padre
+3:Arroio do Sal
+3:Arroio do Tigre
+3:Arroio dos Ratos
+3:Arvorezinha
+3:Augusto Pestana
+3:Bagé
+3:Balneário Pinhal
+3:Barra Funda
+3:Barra do Guarita
+3:Barra do Quaraí
+3:Barra do Ribeiro
+3:Barra do Rio Azul
+3:Barracão
+3:Barros Cassal
+3:Barão
+3:Barão de Cotegipe
+3:Barão do Triunfo
+3:Benjamin Constant do Sul
+3:Bento Gonçalves
+3:Boa Vista das Missões
+3:Boa Vista do Buricá
+3:Boa Vista do Cadeado
+3:Boa Vista do Incra
+3:Boa Vista do Sul
+3:Bom Jesus
+3:Bom Princípio
+3:Bom Progresso
+3:Bom Retiro do Sul
+3:Boqueirão do Leão
+3:Bossoroca
+3:Bozano
+3:Braga
+3:Brochier
+3:Butiá
+3:Cacequi
+3:Cachoeira do Sul
+3:Cachoeirinha
+3:Cacique Doble
+3:Caibaté
+3:Caiçara
+3:Camaquã
+3:Camargo
+3:Cambará do Sul
+3:Campestre da Serra
+3:Campina das Missões
+3:Campinas do Sul
+3:Campo Bom
+3:Campo Novo
+3:Campos Borges
+3:Candelária
+3:Candiota
+3:Canela
+3:Canguçu
+3:Canoas
+3:Canudos do Vale
+3:Capela de Santana
+3:Capitão
+3:Capivari do Sul
+3:Capão Bonito do Sul
+3:Capão do Cipó
+3:Capão do Leão
+3:Carazinho
+3:Caraá
+3:Carlos Barbosa
+3:Carlos Gomes
+3:Casca
+3:Caseiros
+3:Catuípe
+3:Caxias do Sul
+3:Caçapava do Sul
+3:Centenário
+3:Cerrito
+3:Cerro Branco
+3:Cerro Grande
+3:Cerro Grande do Sul
+3:Cerro Largo
+3:Chapada
+3:Charqueadas
+3:Charrua
+3:Chiapetta
+3:Chuvisca
+3:Chuí
+3:Cidreira
+3:Ciríaco
+3:Colinas
+3:Colorado
+3:Condor
+3:Constantina
+3:Coqueiro Baixo
+3:Coqueiros do Sul
+3:Coronel Barros
+3:Coronel Bicaco
+3:Coronel Pilar
+3:Cotiporã
+3:Coxilha
+3:Crissiumal
+3:Cristal
+3:Cristal do Sul
+3:Cruz Alta
+3:Cruzaltense
+3:Cruzeiro do Sul
+3:Cândido Godói
+3:David Canabarro
+3:Derrubadas
+3:Dezesseis de Novembro
+3:Dilermando de Aguiar
+3:Dois Irmãos
+3:Dois Irmãos das Missões
+3:Dois Lajeados
+3:Dom Feliciano
+3:Dom Pedro de Alcântara
+3:Dona Francisca
+3:Doutor Maurício Cardoso
+3:Doutor Ricardo
+3:Eldorado do Sul
+3:Encantado
+3:Encruzilhada do Sul
+3:Engenho Velho
+3:Entre Rios do Sul
+3:Erebango
+3:Erechim
+3:Ernestina
+3:Erval Grande
+3:Erval Seco
+3:Esmeralda
+3:Esperança do Sul
+3:Espumoso
+3:Estação
+3:Esteio
+3:Estrela
+3:Estrela Velha
+3:Estância Velha
+3:Eugênio de Castro
+3:Fagundes Varela
+3:Farroupilha
+3:Faxinal do Soturno
+3:Faxinalzinho
+3:Fazenda Vilanova
+3:Feliz
+3:Flores da Cunha
+3:Floriano Peixoto
+3:Fontoura Xavier
+3:Formigueiro
+3:Forquetinha
+3:Fortaleza dos Valos
+3:Frederico Westphalen
+3:Garibaldi
+3:Garruchos
+3:Gaurama
+3:General Câmara
+3:Gentil
+3:Getúlio Vargas
+3:Giruá
+3:Glorinha
+3:Gramado
+3:Gramado Xavier
+3:Gramado dos Loureiros
+3:Gravataí
+3:Guabiju
+3:Guaporé
+3:Guarani das Missões
+3:Guaíba
+3:Herval
+3:Herveiras
+3:Horizontina
+3:Hulha Negra
+3:Humaitá
+3:Ibarama
+3:Ibiaçá
+3:Ibiraiaras
+3:Ibirapuitã
+3:Ibirubá
+3:Igrejinha
+3:Ijuí
+3:Ilópolis
+3:Imbé
+3:Imigrante
+3:Independência
+3:Inhacorá
+3:Ipiranga do Sul
+3:Ipê
+3:Iraí
+3:Itaara
+3:Itacurubi
+3:Itapuca
+3:Itaqui
+3:Itati
+3:Itatiba do Sul
+3:Ivorá
+3:Ivoti
+3:Jaboticaba
+3:Jacuizinho
+3:Jacutinga
+3:Jaguari
+3:Jaguarão
+3:Jaquirana
+3:Jari
+3:Jóia
+3:Júlio de Castilhos
+3:Lagoa Bonita do Sul
+3:Lagoa Vermelha
+3:Lagoa dos Três Cantos
+3:Lagoão
+3:Lajeado
+3:Lajeado do Bugre
+3:Lavras do Sul
+3:Liberato Salzano
+3:Lindolfo Collor
+3:Linha Nova
+3:Machadinho
+3:Mampituba
+3:Manoel Viana
+3:Maquiné
+3:Maratá
+3:Marau
+3:Marcelino Ramos
+3:Mariana Pimentel
+3:Mariano Moro
+3:Marques de Souza
+3:Mata
+3:Mato Castelhano
+3:Mato Leitão
+3:Mato Queimado
+3:Maximiliano de Almeida
+3:Maçambará
+3:Minas do Leão
+3:Miraguaí
+3:Montauri
+3:Monte Alegre dos Campos
+3:Monte Belo do Sul
+3:Montenegro
+3:Mormaço
+3:Morrinhos do Sul
+3:Morro Redondo
+3:Morro Reuter
+3:Mostardas
+3:Muitos Capões
+3:Muliterno
+3:Muçum
+3:Nicolau Vergueiro
+3:Nonoai
+3:Nova Alvorada
+3:Nova Araçá
+3:Nova Bassano
+3:Nova Boa Vista
+3:Nova Bréscia
+3:Nova Candelária
+3:Nova Esperança do Sul
+3:Nova Hartz
+3:Nova Palma
+3:Nova Petrópolis
+3:Nova Prata
+3:Nova Pádua
+3:Nova Ramada
+3:Nova Roma do Sul
+3:Nova Santa Rita
+3:Novo Barreiro
+3:Novo Cabrais
+3:Novo Hamburgo
+3:Novo Machado
+3:Novo Tiradentes
+3:Novo Xingu
+3:Não-Me-Toque
+3:Osório
+3:Paim Filho
+3:Palmares do Sul
+3:Palmeira das Missões
+3:Palmitinho
+3:Panambi
+3:Pantano Grande
+3:Paraí
+3:Paraíso do Sul
+3:Pareci Novo
+3:Parobé
+3:Passa-Sete
+3:Passo Fundo
+3:Passo do Sobrado
+3:Paulo Bento
+3:Paverama
+3:Pedras Altas
+3:Pedro Osório
+3:Pejuçara
+3:Pelotas
+3:Picada Café
+3:Pinhal
+3:Pinhal Grande
+3:Pinhal da Serra
+3:Pinheirinho do Vale
+3:Pinheiro Machado
+3:Pinto Bandeira
+3:Pirapó
+3:Piratini
+3:Planalto
+3:Ponte Preta
+3:Pontão
+3:Porto Alegre
+3:Porto Lucena
+3:Porto Mauá
+3:Porto Vera Cruz
+3:Porto Xavier
+3:Portão
+3:Pouso Novo
+3:Poço das Antas
+3:Presidente Lucena
+3:Progresso
+3:Protásio Alves
+3:Putinga
+3:Quaraí
+3:Quatro Irmãos
+3:Quevedos
+3:Redentora
+3:Relvado
+3:Restinga Seca
+3:Rio Grande
+3:Rio Pardo
+3:Rio dos Índios
+3:Riozinho
+3:Roca Sales
+3:Rodeio Bonito
+3:Rolador
+3:Rolante
+3:Ronda Alta
+3:Rondinha
+3:Roque Gonzales
+3:Rosário do Sul
+3:Sagrada Família
+3:Saldanha Marinho
+3:Salto do Jacuí
+3:Salvador das Missões
+3:Salvador do Sul
+3:Sananduva
+3:Santa Bárbara do Sul
+3:Santa Cecília do Sul
+3:Santa Clara do Sul
+3:Santa Cruz do Sul
+3:Santa Margarida do Sul
+3:Santa Maria
+3:Santa Maria do Herval
+3:Santa Rosa
+3:Santa Tereza
+3:Santa Vitória do Palmar
+3:Santana da Boa Vista
+3:Santana do Livramento
+3:Santiago
+3:Santo Antônio da Patrulha
+3:Santo Antônio das Missões
+3:Santo Antônio do Palma
+3:Santo Antônio do Planalto
+3:Santo Augusto
+3:Santo Cristo
+3:Santo Expedito do Sul
+3:Santo Ângelo
+3:Sapiranga
+3:Sapucaia do Sul
+3:Sarandi
+3:Seberi
+3:Sede Nova
+3:Segredo
+3:Selbach
+3:Senador Salgado Filho
+3:Sentinela do Sul
+3:Serafina Corrêa
+3:Sertão
+3:Sertão Santana
+3:Sete de Setembro
+3:Severiano de Almeida
+3:Silveira Martins
+3:Sinimbu
+3:Sobradinho
+3:Soledade
+3:São Borja
+3:São Domingos do Sul
+3:São Francisco de Assis
+3:São Francisco de Paula
+3:São Gabriel
+3:São Jerônimo
+3:São Jorge
+3:São José das Missões
+3:São José do Herval
+3:São José do Hortêncio
+3:São José do Inhacorá
+3:São José do Norte
+3:São José do Ouro
+3:São José do Sul
+3:São José dos Ausentes
+3:São João da Urtiga
+3:São João do Polêsine
+3:São Leopoldo
+3:São Lourenço do Sul
+3:São Luiz Gonzaga
+3:São Marcos
+3:São Martinho
+3:São Martinho da Serra
+3:São Miguel das Missões
+3:São Nicolau
+3:São Paulo das Missões
+3:São Pedro da Serra
+3:São Pedro das Missões
+3:São Pedro do Butiá
+3:São Pedro do Sul
+3:São Sebastião do Caí
+3:São Sepé
+3:São Valentim
+3:São Valentim do Sul
+3:São Valério do Sul
+3:São Vendelino
+3:São Vicente do Sul
+3:Sério
+3:Tapejara
+3:Tapera
+3:Tapes
+3:Taquara
+3:Taquari
+3:Taquaruçu do Sul
+3:Tenente Portela
+3:Terra de Areia
+3:Teutônia
+3:Tio Hugo
+3:Tiradentes do Sul
+3:Toropi
+3:Torres
+3:Tramandaí
+3:Travesseiro
+3:Trindade do Sul
+3:Triunfo
+3:Três Arroios
+3:Três Cachoeiras
+3:Três Coroas
+3:Três Forquilhas
+3:Três Palmeiras
+3:Três Passos
+3:Três de Maio
+3:Tucunduva
+3:Tunas
+3:Tupanci do Sul
+3:Tupanciretã
+3:Tupandi
+3:Tuparendi
+3:Turuçu
+3:Ubiretama
+3:Unistalda
+3:União da Serra
+3:Uruguaiana
+3:Vale Real
+3:Vale Verde
+3:Vale do Sol
+3:Vanini
+3:Venâncio Aires
+3:Vera Cruz
+3:Veranópolis
+3:Vespasiano Corrêa
+3:Viadutos
+3:Viamão
+3:Vicente Dutra
+3:Victor Graeff
+3:Vila Flores
+3:Vila Lângaro
+3:Vila Maria
+3:Vila Nova do Sul
+3:Vista Alegre
+3:Vista Alegre do Prata
+3:Vista Gaúcha
+3:Vitória das Missões
+3:Westfália
+3:Xangri-lá
+3:Água Santa
+3:Áurea
+2:Santa Catarina
+3:Abdon Batista
+3:Abelardo Luz
+3:Agrolândia
+3:Agronômica
+3:Alfredo Wagner
+3:Alto Bela Vista
+3:Anchieta
+3:Angelina
+3:Anita Garibaldi
+3:Anitápolis
+3:Antônio Carlos
+3:Apiúna
+3:Arabutã
+3:Araquari
+3:Araranguá
+3:Armazém
+3:Arroio Trinta
+3:Arvoredo
+3:Ascurra
+3:Atalanta
+3:Aurora
+3:Balneário Arroio do Silva
+3:Balneário Barra do Sul
+3:Balneário Camboriú
+3:Balneário Gaivota
+3:Balneário Piçarras
+3:Balneário Rincão
+3:Bandeirante
+3:Barra Bonita
+3:Barra Velha
+3:Bela Vista do Toldo
+3:Belmonte
+3:Benedito Novo
+3:Biguaçu
+3:Blumenau
+3:Bocaina do Sul
+3:Bom Jardim da Serra
+3:Bom Jesus
+3:Bom Jesus do Oeste
+3:Bom Retiro
+3:Bombinhas
+3:Botuverá
+3:Braço do Norte
+3:Braço do Trombudo
+3:Brunópolis
+3:Brusque
+3:Caibi
+3:Calmon
+3:Camboriú
+3:Campo Alegre
+3:Campo Belo do Sul
+3:Campo Erê
+3:Campos Novos
+3:Canelinha
+3:Canoinhas
+3:Capinzal
+3:Capivari de Baixo
+3:Capão Alto
+3:Catanduvas
+3:Caxambu do Sul
+3:Caçador
+3:Celso Ramos
+3:Cerro Negro
+3:Chapadão do Lageado
+3:Chapecó
+3:Concórdia
+3:Cordilheira Alta
+3:Coronel Freitas
+3:Coronel Martins
+3:Correia Pinto
+3:Corupá
+3:Criciúma
+3:Cunha Porã
+3:Cunhataí
+3:Curitibanos
+3:Descanso
+3:Dionísio Cerqueira
+3:Dona Emma
+3:Doutor Pedrinho
+3:Entre Rios
+3:Ermo
+3:Erval Velho
+3:Faxinal dos Guedes
+3:Flor do Sertão
+3:Florianópolis
+3:Formosa do Sul
+3:Forquilhinha
+3:Fraiburgo
+3:Frei Rogério
+3:Galvão
+3:Garopaba
+3:Garuva
+3:Gaspar
+3:Governador Celso Ramos
+3:Gravatal
+3:Grão Pará
+3:Guabiruba
+3:Guaraciaba
+3:Guaramirim
+3:Guarujá do Sul
+3:Guatambu
+3:Herval d'Oeste
+3:Ibiam
+3:Ibicaré
+3:Ibirama
+3:Ilhota
+3:Imaruí
+3:Imbituba
+3:Imbuia
+3:Indaial
+3:Iomerê
+3:Ipira
+3:Iporã do Oeste
+3:Ipuaçu
+3:Ipumirim
+3:Iraceminha
+3:Irani
+3:Irati
+3:Irineópolis
+3:Itaiópolis
+3:Itajaí
+3:Itapema
+3:Itapiranga
+3:Itapoá
+3:Ituporanga
+3:Itá
+3:Içara
+3:Jaborá
+3:Jacinto Machado
+3:Jaguaruna
+3:Jaraguá do Sul
+3:Jardinópolis
+3:Joaçaba
+3:Joinville
+3:José Boiteux
+3:Jupiá
+3:Lacerdópolis
+3:Lages
+3:Laguna
+3:Lajeado Grande
+3:Laurentino
+3:Lauro Müller
+3:Lebon Régis
+3:Leoberto Leal
+3:Lindóia do Sul
+3:Lontras
+3:Luzerna
+3:Luís Alves
+3:Macieira
+3:Mafra
+3:Major Gercino
+3:Major Vieira
+3:Maracajá
+3:Maravilha
+3:Marema
+3:Massaranduba
+3:Matos Costa
+3:Meleiro
+3:Mirim Doce
+3:Modelo
+3:Mondaí
+3:Monte Carlo
+3:Monte Castelo
+3:Morro Grande
+3:Morro da Fumaça
+3:Navegantes
+3:Nova Erechim
+3:Nova Itaberaba
+3:Nova Trento
+3:Nova Veneza
+3:Novo Horizonte
+3:Orleans
+3:Otacílio Costa
+3:Ouro
+3:Ouro Verde
+3:Paial
+3:Painel
+3:Palhoça
+3:Palma Sola
+3:Palmeira
+3:Palmitos
+3:Papanduva
+3:Paraíso
+3:Passo de Torres
+3:Passos Maia
+3:Paulo Lopes
+3:Pedras Grandes
+3:Penha
+3:Peritiba
+3:Pescaria Brava
+3:Petrolândia
+3:Pinhalzinho
+3:Pinheiro Preto
+3:Piratuba
+3:Planalto Alegre
+3:Pomerode
+3:Ponte Alta
+3:Ponte Alta do Norte
+3:Ponte Serrada
+3:Porto Belo
+3:Porto União
+3:Pouso Redondo
+3:Praia Grande
+3:Presidente Castelo Branco
+3:Presidente Getúlio
+3:Presidente Nereu
+3:Princesa
+3:Quilombo
+3:Rancho Queimado
+3:Rio Fortuna
+3:Rio Rufino
+3:Rio das Antas
+3:Rio do Campo
+3:Rio do Oeste
+3:Rio do Sul
+3:Rio dos Cedros
+3:Riqueza
+3:Rodeio
+3:Romelândia
+3:Salete
+3:Saltinho
+3:Salto Veloso
+3:Sangão
+3:Santa Cecília
+3:Santa Helena
+3:Santa Rosa de Lima
+3:Santa Rosa do Sul
+3:Santa Terezinha
+3:Santa Terezinha do Progresso
+3:Santiago do Sul
+3:Santo Amaro da Imperatriz
+3:Saudades
+3:Schroeder
+3:Seara
+3:Serra Alta
+3:Siderópolis
+3:Sombrio
+3:Sul Brasil
+3:São Bento do Sul
+3:São Bernardino
+3:São Bonifácio
+3:São Carlos
+3:São Cristóvão do Sul
+3:São Domingos
+3:São Francisco do Sul
+3:São Joaquim
+3:São José
+3:São José do Cedro
+3:São José do Cerrito
+3:São João Batista
+3:São João do Itaperiú
+3:São João do Oeste
+3:São João do Sul
+3:São Lourenço do Oeste
+3:São Ludgero
+3:São Martinho
+3:São Miguel da Boa Vista
+3:São Miguel do Oeste
+3:São Pedro de Alcântara
+3:Taió
+3:Tangará
+3:Tigrinhos
+3:Tijucas
+3:Timbé do Sul
+3:Timbó
+3:Timbó Grande
+3:Treviso
+3:Treze Tílias
+3:Treze de Maio
+3:Trombudo Central
+3:Três Barras
+3:Tubarão
+3:Tunápolis
+3:Turvo
+3:União do Oeste
+3:Urubici
+3:Urupema
+3:Urussanga
+3:Vargem
+3:Vargem Bonita
+3:Vargeão
+3:Vidal Ramos
+3:Videira
+3:Vitor Meireles
+3:Witmarsum
+3:Xanxerê
+3:Xavantina
+3:Xaxim
+3:Água Doce
+3:Águas Frias
+3:Águas Mornas
+3:Águas de Chapecó
+

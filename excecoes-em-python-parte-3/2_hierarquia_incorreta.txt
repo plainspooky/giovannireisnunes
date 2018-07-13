@@ -1,0 +1,93 @@
+1:Sudeste
+3:Rio de Janeiro
+3:Angra dos Reis
+3:Aperibé
+3:Araruama
+3:Areal
+3:Armação dos Búzios
+3:Arraial do Cabo
+3:Barra Mansa
+3:Barra do Piraí
+3:Belford Roxo
+3:Bom Jardim
+3:Bom Jesus do Itabapoana
+3:Cabo Frio
+3:Cachoeiras de Macacu
+3:Cambuci
+3:Campos dos Goytacazes
+3:Cantagalo
+3:Carapebus
+3:Cardoso Moreira
+3:Carmo
+3:Casimiro de Abreu
+3:Comendador Levy Gasparian
+3:Conceição de Macabu
+3:Cordeiro
+3:Duas Barras
+3:Duque de Caxias
+3:Engenheiro Paulo de Frontin
+3:Guapimirim
+3:Iguaba Grande
+3:Itaboraí
+3:Itaguaí
+3:Italva
+3:Itaocara
+3:Itaperuna
+3:Itatiaia
+3:Japeri
+3:Laje do Muriaé
+3:Macuco
+3:Magé
+3:Mangaratiba
+3:Maricá
+3:Mendes
+3:Mesquita
+3:Miguel Pereira
+3:Miracema
+3:Natividade
+3:Nilópolis
+3:Niterói
+3:Nova Friburgo
+3:Nova Iguaçu
+3:Paracambi
+3:Paraty
+3:Paraíba do Sul
+3:Paty do Alferes
+3:Petrópolis
+3:Pinheiral
+3:Piraí
+3:Porciúncula
+3:Porto Real
+3:Quatis
+3:Queimados
+3:Quissamã
+3:Resende
+3:Rio Bonito
+3:Rio Claro
+3:Rio das Flores
+3:Rio das Ostras
+3:Rio de Janeiro
+3:Santa Maria Madalena
+3:Santo Antônio de Pádua
+3:Sapucaia
+3:Saquarema
+3:Seropédica
+3:Silva Jardim
+3:Sumidouro
+3:São Fidélis
+3:São Francisco de Itabapoana
+3:São Gonçalo
+3:São José de Ubá
+3:São José do Vale do Rio Preto
+3:São João da Barra
+3:São João de Meriti
+3:São Pedro da Aldeia
+3:São Sebastião do Alto
+3:Tanguá
+3:Teresópolis
+3:Trajano de Moraes
+3:Três Rios
+3:Valença
+3:Varre-Sai
+3:Volta Redonda
+

@@ -23,7 +23,7 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
 * [Orientação a objetos em Python, o básico](https://giovannireisnunes.wordpress.com/2016/11/25/orientacao-a-objetos-em-python-o-basico/)
 * [Orientação a objetos em JavaScript, o básico](https://giovannireisnunes.wordpress.com/2016/12/23/orientacao-a-objetos-em-javascript-o-basico/)
 * [Módulos em Python](https://giovannireisnunes.wordpress.com/2017/08/18/modulos-em-python)
-* Exceções em Python - [parte 1](https://giovannireisnunes.wordpress.com/2018/06/22/excecoes-em-python-parte-1) e [parte 2](https://giovannireisnunes.wordpress.com/2018/06/29/excecoes-em-python-parte-2)
+* Exceções em Python - [parte 1](https://giovannireisnunes.wordpress.com/2018/06/22/excecoes-em-python-parte-1), [parte 2](https://giovannireisnunes.wordpress.com/2018/06/29/excecoes-em-python-parte-2) e [parte 3](https://giovannireisnunes.wordpress.com/2018/07/13/excecoes-em-python-parte-3)
 
 
 ## Para usar estes arquivos
