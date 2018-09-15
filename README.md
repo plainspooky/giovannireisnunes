@@ -25,6 +25,7 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
 * [Módulos em Python](https://giovannireisnunes.wordpress.com/2017/08/18/modulos-em-python)
 * Exceções em Python - [parte 1](https://giovannireisnunes.wordpress.com/2018/06/22/excecoes-em-python-parte-1), [parte 2](https://giovannireisnunes.wordpress.com/2018/06/29/excecoes-em-python-parte-2) e [parte 3](https://giovannireisnunes.wordpress.com/2018/07/13/excecoes-em-python-parte-3)
 * [Usando grupos em expressões regulares](https://giovannireisnunes.wordpress.com/2018/08/24/usando-grupos-em-expressoes-regulares)
+* [Um básico de pytest](https://giovannireisnunes.wordpress.com/2018/09/14/um-basico-de-pytest)
 
 ## Para usar estes arquivos
 
