@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*- 
 
 def media_aritmetica(valores):
     """ Calcula a média aritmética de uma lista de números passada em
