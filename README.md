@@ -28,6 +28,7 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
 * [Um básico de pytest](https://giovannireisnunes.wordpress.com/2018/09/14/um-basico-de-pytest)
 * [Registro de eventos em Python](https://giovannireisnunes.wordpress.com/2018/09/28/registro-de-eventos-em-python)
 * [Argumentos de funções em Python](https://giovannireisnunes.wordpress.com/2018/10/12/argumentos-de-funcoes-em-python)
+* [Cobertura de código com pytest](https://giovannireisnunes.wordpress.com/2018/11/30/cobertura-de-codigo-com-pytest)
 
 ## Para usar estes arquivos
 
