@@ -1,14 +1,13 @@
 # Files from my blog
 
-These are a collection of programs and files related from my [blog](https://giovannireisnunes.wordpress.com).
-It is written in portuguese but you're invited to know it.
-Even using some kind of automatic language translator :-)
+These are a set of related programs and files from my [blog](https://giovannireisnunes.wordpress.com).
+It's all written in Brazilian Portuguese but you're invited to know it -- even using some kind of language translator to read it :-)
 
 # Arquivos do meu blog
 
 Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](https://giovannireisnunes.wordpress.com).
 
-## Publicações relacionadas (ordem cronológica)
+## Publicações relacionadas (a ordem é cronológica)
 
 * [Quantos dias tem o mês?](https://giovannireisnunes.wordpress.com/2015/05/01/quantos-dias-tem-um-mes/)
 * [Faxina no /boot](https://giovannireisnunes.wordpress.com/2015/05/25/faxina-no-boot/)
@@ -29,6 +28,7 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
 * [Registro de eventos em Python](https://giovannireisnunes.wordpress.com/2018/09/28/registro-de-eventos-em-python)
 * [Argumentos de funções em Python](https://giovannireisnunes.wordpress.com/2018/10/12/argumentos-de-funcoes-em-python)
 * [Cobertura de código com pytest](https://giovannireisnunes.wordpress.com/2018/11/30/cobertura-de-codigo-com-pytest)
+* [Geradores em Python](https://giovannireisnunes.wordpress.com/2019/02/22/geradores-em-python)
 
 ## Para usar estes arquivos
 
