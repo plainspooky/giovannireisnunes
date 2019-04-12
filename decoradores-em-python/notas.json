@@ -1,0 +1,33 @@
+[{
+		"id": 1,
+		"nome": "Adão Nogueira",
+		"nota_1": 9.89,
+		"nota_2": 8.75,
+		"nota_3": 6.34,
+		"nota_4": 8.05
+	},
+	{
+		"id": 2,
+		"nome": "Bruno Tavares",
+		"nota_1": 6.32,
+		"nota_2": 8.25,
+		"nota_3": 7.67,
+		"nota_4": 7.97
+	},
+	{
+		"id": 3,
+		"nome": "João da Silva",
+		"nota_1": 5.1,
+		"nota_2": 5.22,
+		"nota_3": 7.33,
+		"nota_4": 8
+	},
+	{
+		"id": 4,
+		"nome": "José Queiroz",
+		"nota_1": 9.31,
+		"nota_2": 7.9,
+		"nota_3": 8,
+		"nota_4": 8.832
+	}
+]
