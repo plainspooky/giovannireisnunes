@@ -29,6 +29,7 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
 * [Argumentos de funções em Python](https://giovannireisnunes.wordpress.com/2018/10/12/argumentos-de-funcoes-em-python)
 * [Cobertura de código com pytest](https://giovannireisnunes.wordpress.com/2018/11/30/cobertura-de-codigo-com-pytest)
 * [Geradores em Python](https://giovannireisnunes.wordpress.com/2019/02/22/geradores-em-python)
+* [Decoradores em Python](https://giovannireisnunes.wordpress.com/2019/04/12/decoradores-em-python)
 
 ## Para usar estes arquivos
 
