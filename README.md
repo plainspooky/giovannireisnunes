@@ -1,7 +1,6 @@
 # Files from my blog
 
-These are a set of related programs and files from my [blog](https://giovannireisnunes.wordpress.com).
-It's all written in Brazilian Portuguese but you're invited to know it -- even using some kind of language translator to read it :-)
+Here there are a set of related programs and files from my [blog](https://giovannireisnunes.wordpress.com), all posts are written in Brazilian Portuguese but you're invited to know it -- even using some kind of language translator to read :-)
 
 # Arquivos do meu blog
 
@@ -30,10 +29,11 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
 * [Cobertura de código com pytest](https://giovannireisnunes.wordpress.com/2018/11/30/cobertura-de-codigo-com-pytest)
 * [Geradores em Python](https://giovannireisnunes.wordpress.com/2019/02/22/geradores-em-python)
 * [Decoradores em Python](https://giovannireisnunes.wordpress.com/2019/04/12/decoradores-em-python)
+* [Criando imagens em Python](https://giovannireisnunes.wordpress.com/2020/01/24/criando-imagens-em-python)
 
 ## Para usar estes arquivos
 
-Todos os programas estão licenciados na GPL, podem ser utilizados livremente (desde que não violem os termos da licença, é claro) e  podem ser baixados diretamente pela interface web do GitHub ou então com o próprio `git`:
+Todos os programas estão licenciados na GPL, mesmo que eu tenha esquecido de informar, podem ser utilizados livremente (desde que não violem os termos da licença, é claro) e é possível baixá-los diretamente pela interface web do __GitHub__ ou então através do próprio `git`:
 
 ```
 $ git clone https://github.com/plainspooky/giovannireisnunes.git
