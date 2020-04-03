@@ -9,6 +9,7 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
 ## Publicações relacionadas (a ordem é cronológica invertida)
 
 ### 2020
+* [Mais decoradores em Python](https://giovannireisnunes.wordpress.com/2020/04/03/mais-decoradores-em-python/)
 * [Orientação a objetos em Python, além do básico](https://giovannireisnunes.wordpress.com/2020/03/20/orientacao-a-objetos-em-python-alem-do-basico)
 * [Criando imagens em Python](https://giovannireisnunes.wordpress.com/2020/01/24/criando-imagens-em-python)
 
