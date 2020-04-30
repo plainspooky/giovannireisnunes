@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from typing import Callable
 
-from modulesdecorators import multiply
+from module.decorators import multiply
 
 # o valor inicial de 
 f = 2
