@@ -1,14 +1,17 @@
 # Files from my blog
 
-There are here a set of programs and related files from my [blog](https://giovannireisnunes.wordpress.com), all posts are written in Brazilian Portuguese but you're invited to know them -- even using some kind of language translator  :-)
+There are here a set of programs and related files from my [blog](https://giovannireisnunes.wordpress.com) posts. All posts are written in Brazilian Portuguese but you're invited to know them -- even using some kind of language translator  :-)
 
 # Arquivos do meu blog
 
-Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](https://giovannireisnunes.wordpress.com).
+Aqui estão os arquivos e outras coisas citados e/ou utilizados nas publicações do meu [blog](https://giovannireisnunes.wordpress.com).
 
-## Publicações relacionadas (a ordem é cronológica invertida)
+## Publicações relacionadas
+
+Os mais recentes primeiro (ordem é cronológica invertida).
 
 ### 2020
+* [Usando arquivos CSV em Python](https://giovannireisnunes.wordpress.com/2020/07/17/usando-arquivos-csv-em-python)
 * [Mais decoradores em Python](https://giovannireisnunes.wordpress.com/2020/04/03/mais-decoradores-em-python/)
 * [Orientação a objetos em Python, além do básico](https://giovannireisnunes.wordpress.com/2020/03/20/orientacao-a-objetos-em-python-alem-do-basico)
 * [Criando imagens em Python](https://giovannireisnunes.wordpress.com/2020/01/24/criando-imagens-em-python)
@@ -44,7 +47,7 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados no meu [blog](ht
 * [Faxina no /boot](https://giovannireisnunes.wordpress.com/2015/05/25/faxina-no-boot/)
 * [Quantos dias tem o mês?](https://giovannireisnunes.wordpress.com/2015/05/01/quantos-dias-tem-um-mes/)
 
-## Para usar estes arquivos
+## Para os arquivos
 
 Todos os programas estão licenciados na **GPL**, mesmo que eu tenha esquecido de informar, podem ser utilizados livremente (desde que não violem os termos da licença, é claro) e é possível baixá-los diretamente pela interface web do __GitHub__ ou então através do próprio `git`:
 
