@@ -1,0 +1,19 @@
+# Editor configuration, see https://editorconfig.org
+root = false
+
+[*]
+charset = utf-8
+end_of_line = lf
+
+[*.py]
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.bas]
+charset = latin1
+insert_final_newline = false
+end_of_line=crlf
+indent_style = space
+ident_size = tab
