@@ -45,7 +45,7 @@ def bsave(filename, vram):
         f.write(vram)
 
 
-def reduce_color(r, g, b):
+def reduce_color(r, g, b, *args):
     """
     Reduz a resolução das cores. Basicamente deveria fazer a divisão
     inteira por 32 (R e G) ou 64 (B) mas para manter os valores
