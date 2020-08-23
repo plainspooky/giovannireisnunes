@@ -11,6 +11,7 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados nas publicaçõe
 Os mais recentes primeiro (ordem é cronológica invertida).
 
 ### 2020
+* [Convertendo imagens para MSX](https://giovannireisnunes.wordpress.com/2020/08/28/convertendo-imagens-para-msx)
 * [Usando arquivos CSV em Python](https://giovannireisnunes.wordpress.com/2020/07/17/usando-arquivos-csv-em-python)
 * [Mais decoradores em Python](https://giovannireisnunes.wordpress.com/2020/04/03/mais-decoradores-em-python/)
 * [Orientação a objetos em Python, além do básico](https://giovannireisnunes.wordpress.com/2020/03/20/orientacao-a-objetos-em-python-alem-do-basico)
