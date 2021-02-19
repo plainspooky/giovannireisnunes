@@ -10,6 +10,9 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados nas publicaçõe
 
 Os mais recentes primeiro (ordem é cronológica invertida).
 
+### 2021
+* [Manipulando XLSX em Python](https://giovannireisnunes.wordpress.com/2021/02/19/manipulando-xlsx-em-python/)
+
 ### 2020
 * [Convertendo imagens para MSX](https://giovannireisnunes.wordpress.com/2020/08/28/convertendo-imagens-para-msx)
 * [Usando arquivos CSV em Python](https://giovannireisnunes.wordpress.com/2020/07/17/usando-arquivos-csv-em-python)
