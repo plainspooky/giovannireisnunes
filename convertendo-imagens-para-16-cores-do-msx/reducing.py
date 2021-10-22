@@ -12,7 +12,7 @@ colors = count_colors(image)
 palette = quantize_colors(colors, 16)
 
 # converte uma dada imagem para 16 cores sem alicar dithering
-reduce_colors(image, palette, dither=False)
+__ = reduce_colors(image, palette, dither=False)
 
 # exibe a imagem convertida, use ".save()" para salvá-la em arquivo...
 image.show()
