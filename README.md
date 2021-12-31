@@ -11,6 +11,7 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados nas publicaçõe
 Os mais recentes primeiro (ordem é cronológica invertida).
 
 ### 2021
+* [Incrementando o Tetris do MSX1](https://giovannireisnunes.wordpress.com/2021/12/31/incrementando-o-tetris-do-msx1/)
 * [Convertendo imagens em 16 cores no MSX - parte 2](https://giovannireisnunes.wordpress.com/2021/10/22/convertendo-imagens-em-16-cores-no-msx---parte-2)
 * [Convertendo imagens em 16 cores no MSX - parte 1](https://giovannireisnunes.wordpress.com/2021/04/16/convertendo-imagens-em-16-cores-no-msx)
 * [Manipulando XLSX em Python](https://giovannireisnunes.wordpress.com/2021/02/19/manipulando-xlsx-em-python/)
