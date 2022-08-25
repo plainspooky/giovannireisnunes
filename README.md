@@ -10,6 +10,9 @@ Aqui estão os arquivos e outras coisas citados e/ou utilizados nas publicaçõe
 
 Os mais recentes primeiro (ordem é cronológica invertida).
 
+### 2022
+* Usando o pydantic [parte 1](https://giovannireisnunes.wordpress.com/2022/08/26/usando-o-pydantic-parte---1)
+
 ### 2021
 * [Incrementando o Tetris do MSX1](https://giovannireisnunes.wordpress.com/2021/12/31/incrementando-o-tetris-do-msx1/)
 * [Convertendo imagens em 16 cores no MSX - parte 2](https://giovannireisnunes.wordpress.com/2021/10/22/convertendo-imagens-em-16-cores-no-msx---parte-2)

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "O MSX-DOS revelado",
+    "subtitle": "Tudo a respeito do MSX-DOS que voc\\u00ea n\\u00e3o sabe e n\\u00e3o tinha a quem perguntar!",
+    "author": "Ricardo Jurczyk Pinheiro",
+    "publisher": "n/a",
+    "pages": 240,
+    "isbn": "9786599158100"
+  },
+  {
+    "id": 2,
+    "title": "Texinfo",
+    "subtitle": "The GNU Documentation Format",
+    "author": "Robert J. Chassell, Richard M. Stallman",
+    "publisher": "Free Software Foundation",
+    "pages": 246,
+    "isbn": "1882114671",
+    "language": "English"
+  },
+  {
+    "id": 3,
+    "title": "Programa\\u00e7\\u00e3o Shell Linux",
+    "author": "J\\u00falio Cezar Neves",
+    "publisher": "Brasport",
+    "pages": 414,
+    "isbn": "8574522031"
+  },
+  {
+    "id": 4,
+    "title": "Python Fluente",
+    "subtitle": "Programa\\u00e7\\u00e3o clara, concisa e eficaz",
+    "author": "Luciano Ramalho",
+    "publisher": "novatec",
+    "pages": 800,
+    "isbn": "9788575224625"
+  }
+]
