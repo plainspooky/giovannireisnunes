@@ -1,2 +1,2 @@
-Pillow==10.1.0
+Pillow==10.2.0
 divisivlelist @ git+https://github.com/plainspooky/divisiblelist@d9d309e1e6f018f18b5ab82fcc0b7c21cc0e8fd7
